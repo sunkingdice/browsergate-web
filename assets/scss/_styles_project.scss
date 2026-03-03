@@ -2,3 +2,36 @@
 Project-specific styles. For details, see:
 https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
 */
+
+.td-navbar__search {
+  display: none !important;
+}
+
+.td-sidebar-nav .td-sidebar-link.tree-root .linkedin-color {
+  color: #0E76A8;
+  font-size: 18px;
+}
+
+.td-page-meta__lastmod {
+  font-size: 10px;
+}
+
+.td-navbar {
+  background-color: #0E76A8 !important;
+
+  .nav-link,
+  .navbar-brand {
+    color: #ffffff !important;
+  }
+
+  .navbar-brand__logo svg {
+    height: 28px;
+    width: auto;
+  }
+
+  .navbar-brand__name {
+    position: relative;
+    top: -2px;
+    left: -4px;
+  }
+}

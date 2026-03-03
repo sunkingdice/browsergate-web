@@ -6,6 +6,7 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
 enableRobotsTXT = true
+ignoreFiles = ['\.obsidian']
 enableGitInfo = true
 
 [taxonomies]
@@ -43,8 +44,6 @@ enableGitInfo = true
   section = ['HTML', 'print', 'RSS']
 
 [params]
-  github_repo = 'https://github.com/sunkingdice/browsergate-web'
-  github_branch = 'main'
 
   offlineSearch = true
 
@@ -59,7 +58,7 @@ enableGitInfo = true
     sidebar_menu_foldable = true
     sidebar_menu_compact = false
     sidebar_search_disable = false
-    showLightDarkModeMenu = true
+    showLightDarkModeMenu = false
 
     [params.ui.feedback]
       enable = false
@@ -68,11 +67,6 @@ enableGitInfo = true
       enable = false
 
   [params.links]
-    [[params.links.developer]]
-      name = 'GitHub'
-      url = 'https://github.com/sunkingdice/browsergate-web'
-      icon = 'fab fa-github'
-      desc = 'Source code'
 
 [module]
   [module.hugoVersion]

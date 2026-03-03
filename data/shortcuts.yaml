@@ -1,0 +1,11 @@
+- title: Downloads
+  url: /downloads/
+  icon: fa-solid fa-download
+
+- title: How you can help
+  url: /help/
+  icon: fa-solid fa-hands-helping
+
+- title: Contact us
+  url: /contact/
+  icon: fa-solid fa-envelope
