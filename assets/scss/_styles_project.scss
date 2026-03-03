@@ -16,6 +16,19 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
   font-size: 10px;
 }
 
+.td-content > .td-max-width-on-larger-screens,
+.td-content > p,
+.td-content > h1,
+.td-content > h2,
+.td-content > ol,
+.td-content > ul {
+  max-width: 100%;
+}
+
+.td-main main {
+  padding-right: 40px;
+}
+
 
 .td-navbar {
   background-color: #0E76A8 !important;
