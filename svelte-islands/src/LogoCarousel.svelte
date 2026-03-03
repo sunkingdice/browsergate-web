@@ -1,42 +1,58 @@
 <script>
   import { onMount } from 'svelte';
 
-  const variants = ['uncovered', 'unhinged', 'uncontrolled', 'unauthorized'];
-  let current = 0;
-  let visible = true;
+  let { words = [] } = $props();
+  let displayText = $state('');
+  let typing = $state(false);
+  let showCursor = $state(true);
+
+  const TYPE_SPEED = 80;
+  const ERASE_SPEED = 50;
+
+  function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  async function typeWord(word) {
+    typing = true;
+    for (let i = 0; i <= word.length; i++) {
+      displayText = word.slice(0, i);
+      await sleep(TYPE_SPEED);
+    }
+    typing = false;
+  }
+
+  async function eraseWord(word) {
+    typing = true;
+    for (let i = word.length; i >= 0; i--) {
+      displayText = word.slice(0, i);
+      await sleep(ERASE_SPEED);
+    }
+    typing = false;
+  }
+
+  async function loop() {
+    while (true) {
+      for (const entry of words) {
+        await typeWord(entry.word);
+        await sleep(entry.seconds * 1000);
+        await eraseWord(entry.word);
+        await sleep(300);
+      }
+    }
+  }
 
   onMount(() => {
-    const interval = setInterval(() => {
-      visible = false;
-      setTimeout(() => {
-        current = (current + 1) % variants.length;
-        visible = true;
-      }, 400);
-    }, 3000);
-    return () => clearInterval(interval);
+    if (words.length > 0) {
+      loop();
+    }
+
+    const cursorInterval = setInterval(() => {
+      showCursor = !showCursor;
+    }, 530);
+
+    return () => clearInterval(cursorInterval);
   });
 </script>
 
-<div class="logo-carousel">
-  <span class="logo" class:fade-in={visible} class:fade-out={!visible}>
-    <span class="prefix">un</span>{variants[current].slice(2)}
-  </span>
-</div>
-
-<style>
-  .logo-carousel {
-    display: flex;
-    justify-content: center;
-    padding: 2rem 0;
-  }
-  .logo {
-    font-size: 2.5rem;
-    font-weight: bold;
-    transition: opacity 0.4s ease;
-  }
-  .prefix {
-    color: #0a66c2;
-  }
-  .fade-in { opacity: 1; }
-  .fade-out { opacity: 0; }
-</style>
+<span class="typewriter-text">{displayText}</span>{#if typing}<span class="typewriter-cursor" class:visible={showCursor}>|</span>{/if}

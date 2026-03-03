@@ -1,7 +1,9 @@
 import { mount } from 'svelte';
 import LogoCarousel from './LogoCarousel.svelte';
 
-const target = document.getElementById('logo-carousel');
+const target = document.getElementById('logo-typewriter');
 if (target) {
-  mount(LogoCarousel, { target });
+  const words = JSON.parse(target.dataset.words || '[]');
+  target.textContent = '';
+  mount(LogoCarousel, { target, props: { words } });
 }

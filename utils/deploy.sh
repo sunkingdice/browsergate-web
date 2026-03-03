@@ -12,7 +12,7 @@ cd "$ROOT"
 # Build Svelte islands
 echo "→ Building Svelte islands..."
 cd svelte-islands
-npx vite build
+npx vite build --emptyOutDir
 cd "$ROOT"
 
 # Commit and push
