@@ -8,6 +8,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         'logo-carousel': resolve(__dirname, 'src/logo-carousel-entry.js'),
+        'extensions-table': resolve(__dirname, 'src/extensions-table-entry.js'),
       },
       output: {
         dir: '../static/js/islands',

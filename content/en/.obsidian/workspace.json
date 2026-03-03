@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf9327c3f1f1a7e",
+        "id": "885b17d5ab818c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d23728110741a1f",
+            "id": "ca8c137daebc198e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline"
             }
           }
         ]
@@ -183,10 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d23728110741a1f",
+  "active": "a7f04980c72a526c",
   "lastOpenFiles": [
-    "Introduction1.md",
+    "extensions/_index.md",
+    "extensions",
+    "de-ai.md",
     "Introduction.md",
+    "Introduction1.md",
     "_index.md",
     "blog/_index.md",
     "foo/bar.md",
