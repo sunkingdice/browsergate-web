@@ -43,7 +43,7 @@ From 2017 to 2024, LinkedIn added roughly 60 extensions per year. From 2024 to D
 
 ## What LinkedIn Scans For
 
-The 5,459 extensions break down into several categories.
+The 6,153 extensions break down into several categories.
 
 **762 LinkedIn-specific tools.** Extensions built for LinkedIn productivity, content creation, and networking. These are the tools the DMA explicitly requires LinkedIn to accommodate.
 
@@ -59,7 +59,7 @@ The 5,459 extensions break down into several categories.
 
 **Disability and neurodivergence tools.** Including "simplify," described as "for neurodivergent users" (79 users).
 
-[Search the full list of 5,459 extensions →](https://claude.ai/extensions/)
+[Search the full list of 6,153 extensions →](/extensions/)
 
 ## Corporate and Institutional Profiling
 

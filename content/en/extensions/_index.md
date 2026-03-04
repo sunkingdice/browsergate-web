@@ -5,7 +5,7 @@ type: docs
 weight: 10
 ---
 
-## 5,398 extensions. Zero consent.
+## 6,153 extensions. Zero consent.
 
 Every time you visit LinkedIn, a hidden JavaScript program scans your browser for installed Chrome extensions. No notice. No opt-in. No mention in their privacy policy.
 

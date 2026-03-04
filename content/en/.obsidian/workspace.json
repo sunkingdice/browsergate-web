@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extensions/_index.md",
+                "file": "This Is Not Just a Privacy Violation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "This Is Not Just a Privacy Violation"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensions/_index.md",
+                "file": "This Is Not Just a Privacy Violation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for This Is Not Just a Privacy Violation"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensions/_index.md",
+                "file": "This Is Not Just a Privacy Violation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from This Is Not Just a Privacy Violation"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensions/_index.md",
+                "file": "This Is Not Just a Privacy Violation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of This Is Not Just a Privacy Violation"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
-    "How It Works.md",
+    "Why it's illegal.md",
+    "This Is Not Just a Privacy Violation.md",
     "Introduction.md",
+    "How It Works.md",
+    "extensions/_index.md",
     "How it works.md",
     "_index.md",
-    "extensions/_index.md",
     "extensions",
     "de-ai.md",
     "Introduction1.md",
