@@ -1,6 +1,6 @@
 ---
 title: "The Attack: How it works"
-linkTitle: How it works (technical)
+linkTitle: How it works
 type: docs
 weight: 2
 ---

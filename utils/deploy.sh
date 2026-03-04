@@ -30,4 +30,8 @@ git push
 echo "→ Deploying on server..."
 ssh "$SERVER" "cd $REMOTE_PATH && git pull && hugo --minify"
 
+# Rebuild SvelteKit app if it has changes
+echo "→ Rebuilding SvelteKit app..."
+ssh "$SERVER" "cd $REMOTE_PATH/../app && npm install --omit=dev && npm run build && (sudo systemctl restart browsergate-app 2>/dev/null || echo '  ⚠ No systemd service found — restart the app manually')"
+
 echo "✓ Deployed to browsergate.eu"

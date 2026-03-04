@@ -1,6 +1,6 @@
 ---
 title: Introduction - What is BrowserGate?
-linkTitle: "Intro: What is BrowserGate?"
+linkTitle: What is BrowserGate?
 type: docs
 weight: 1
 ---

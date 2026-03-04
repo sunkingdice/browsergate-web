@@ -1,6 +1,6 @@
 ---
 title: Scanned Extensions Database
-linkTitle: Scanned Extensions (DB)
+linkTitle: Search the list
 type: docs
 weight: 10
 ---

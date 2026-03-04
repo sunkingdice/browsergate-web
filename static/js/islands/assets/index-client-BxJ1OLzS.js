@@ -1,0 +1,1 @@
+import{y as o,q as t,u as c}from"./disclose-version-CWeP7bwE.js";function u(e){throw new Error("https://svelte.dev/e/lifecycle_outside_component")}function r(e){o===null&&u(),t(()=>{const n=c(e);if(typeof n=="function")return n})}export{r as o};

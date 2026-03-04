@@ -1,6 +1,6 @@
 ---
 title: This Is Not Just a Privacy Violation
-linkTitle: More than a Privacy Violation
+linkTitle: The deeper problem
 type: docs
 weight: 4
 ---
