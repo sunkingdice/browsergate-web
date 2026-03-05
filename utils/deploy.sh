@@ -28,7 +28,7 @@ git push
 
 # Deploy on server
 echo "→ Deploying on server..."
-ssh "$SERVER" "cd $REMOTE_PATH && git pull && hugo --minify"
+ssh "$SERVER" "cd $REMOTE_PATH && git checkout -- . && git pull && hugo --minify"
 
 # Rebuild SvelteKit app if deployed on server
 echo "→ Rebuilding SvelteKit app..."
