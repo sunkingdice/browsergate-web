@@ -119,6 +119,7 @@
         {{- if $withChild }} with-child{{ else }} without-child{{ end -}}
         {{ if $activePath }} active-path{{ end -}}
         {{ if (not (or $show $p.Site.Params.ui.sidebar_menu_foldable )) }} collapse{{ end -}}
+        {{ if $s.Params.sidebar_margin_top }} sidebar-mt{{ end -}}
       " {{/**/ -}}
       id="{{ $mid }}-li" {{- /**/ -}}
     >

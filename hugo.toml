@@ -35,6 +35,9 @@ enableGitInfo = true
         block = true
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions.extras.linkTarget]
+      target = "_blank"
+      rel = "noopener"
   [markup.highlight]
     style = 'tango'
     noClasses = false

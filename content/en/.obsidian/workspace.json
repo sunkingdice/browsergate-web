@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This Is Not Just a Privacy Violation.md",
+                "file": "The Evidence Pack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This Is Not Just a Privacy Violation"
+              "title": "The Evidence Pack"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This Is Not Just a Privacy Violation.md",
+                "file": "The Evidence Pack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for This Is Not Just a Privacy Violation"
+              "title": "Backlinks for The Evidence Pack"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This Is Not Just a Privacy Violation.md",
+                "file": "The Evidence Pack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from This Is Not Just a Privacy Violation"
+              "title": "Outgoing links from The Evidence Pack"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This Is Not Just a Privacy Violation.md",
+                "file": "The Evidence Pack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of This Is Not Just a Privacy Violation"
+              "title": "Outline of The Evidence Pack"
             }
           }
         ]
@@ -185,16 +185,23 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
-    "extensions/_index.md",
-    "How It Works.md",
-    "Introduction.md",
-    "10 Things You can do/_index.md",
-    "_index.md",
-    "signup/_index.md",
-    "10 Things You can do",
-    "This Is Not Just a Privacy Violation.md",
-    "signup",
+    "The deeper problem.md",
     "Why it's illegal.md",
+    "The Evidence Pack.md",
+    "How It Works.md",
+    "What is BrowserGate?.md",
+    "extensions/_index.md",
+    "Take action!/_index.md",
+    "Take action!/Share this.md",
+    "take-action/share-this 2.md",
+    "take-action/share-this 1.md",
+    "take-action/share-this.md",
+    "take-action",
+    "_index.md",
+    "search.md",
+    "signup/_index.md",
+    "Take action!",
+    "signup",
     "How it works.md",
     "extensions",
     "de-ai.md",

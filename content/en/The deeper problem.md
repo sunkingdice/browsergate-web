@@ -2,7 +2,7 @@
 title: This Is Not Just a Privacy Violation
 linkTitle: The deeper problem
 type: docs
-weight: 4
+weight: 5
 ---
 When people hear that LinkedIn scans browser extensions without consent, the first reaction is usually about personal privacy. That reaction is correct, but it is incomplete.
 

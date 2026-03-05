@@ -1,8 +1,9 @@
 ---
 title: Scanned Extensions Database
-linkTitle: Search the list
+linkTitle: Scanned Extensions Database
 type: docs
 weight: 10
+sidebar_margin_top: true
 ---
 
 ## 6,153 extensions. Zero consent.

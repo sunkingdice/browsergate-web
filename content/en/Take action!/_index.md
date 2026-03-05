@@ -2,42 +2,46 @@
 title: 10 Things you can do to help stop BrowserGate
 linkTitle: Take action!
 type: docs
+sidebar_margin_top: true
 ---
-#####  LinkedIn has 33,000 employees and a $15 billion legal budget. 
+##### LinkedIn has 33,000 employees and a $15 billion legal budget. 
 ##### But we are one billion LinkedIn users. – And you have this list.
 
 
-## 01 — Check if you're on the list
+## **01 — Check if you're on the list**
 
-Search the database of 5,459 extensions LinkedIn scans for. Enter your extension name or ID and see it in LinkedIn's actual JavaScript code. Takes 10 seconds.
+Search the database of 6,153 extensions LinkedIn scans for.
 
-[Search the list →]
+[Search the list →](/extensions/)
+
+Enter your extension name or ID and see it in LinkedIn's actual JavaScript code. Takes 10 seconds.
 
 ---
 
-## 02 — Share this with someone who should know
+## **02 — Share this with someone who should know**
 
 Most people have no idea this is happening. Use our pre-written posts and media assets to share on LinkedIn, X, Mastodon, Bluesky, or Facebook. Each post is tailored to the platform. One click.
 
-[TODO: Copy/paste snippets or one-click share buttons per platform]
-
 ---
 
-## 03 — Subscribe to the BrowserGate newsletter
+## **03 — Join our mailinglist and Whatsapp group**
 
-Legal updates, new technical findings, press coverage, and calls to action. No spam. Unsubscribe anytime.
+Legal updates, new technical findings, press coverage, and calls to action. No spam. Unsubscribe or leave anytime anytime.
 
-[Join the newsletter →]
+[Join our mailinglist →](/signup/)  
+[Join our Whatsapp group →](https://chat.whatsapp.com/GEnUBww8I4yGygxeUU9coy)
 
 ---
-
 ## 04 — Talk to the press
 
-Know a journalist? Ask them what they need to cover BrowserGate. Don't know one? Call your local newspaper, radio station, or TV newsroom and ask why they haven't reported that LinkedIn scans 405 million users' browsers without consent.
+Know a journalist? Ask them what they need to cover BrowserGate.   
+Don't know one? Call your local newspaper, radio station, or TV newsroom and ask why they haven't reported that LinkedIn scans 405 million users' browsers without consent.
+
+[How to talk to the media →]
 
 Every professional with a LinkedIn account is affected. Every business with a LinkedIn company page is affected. Every employee whose browser is being fingerprinted without their employer's knowledge is affected. That is a story.
 
-[How to talk to the media →]
+
 
 ---
 
