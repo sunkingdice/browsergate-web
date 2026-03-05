@@ -32,6 +32,6 @@ ssh "$SERVER" "cd $REMOTE_PATH && git checkout -- . && git pull && hugo --minify
 
 # Rebuild SvelteKit app if deployed on server
 echo "→ Rebuilding SvelteKit app..."
-ssh "$SERVER" "cd $REMOTE_PATH/app && npm install --omit=dev && npm run build && (sudo systemctl restart browsergate-app 2>/dev/null || echo '  ⚠ No systemd service found — restart the app manually')"
+ssh "$SERVER" "cd $REMOTE_PATH/app && npm install && npm run build && (sudo systemctl restart browsergate-app 2>/dev/null || echo '  ⚠ No systemd service found — restart the app manually')"
 
 echo "✓ Deployed to browsergate.eu"
