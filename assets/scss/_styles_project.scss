@@ -20,8 +20,15 @@ https://www.docsy.dev/docs/content/lookandfeel/#project-style-files
   margin-top: 20px !important;
 }
 
-nav.foldable-nav .ul-1 > li {
+nav.foldable-nav .with-child,
+nav.foldable-nav .without-child {
   padding-left: 0.75em;
+}
+
+@media (min-width: 768px) {
+  .td-sidebar-nav__section .ul-1 ul {
+    padding-left: 0.75em;
+  }
 }
 
 .td-content > .td-max-width-on-larger-screens,
