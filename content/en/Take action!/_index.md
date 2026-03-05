@@ -8,7 +8,7 @@ sidebar_margin_top: true
 ##### But we are one billion LinkedIn users. – And you have this list.
 
 
-## **01 — Check if you're on the list**
+## **01 | Check if you're on the list**
 
 Search the database of 6,153 extensions LinkedIn scans for.
 
@@ -18,21 +18,21 @@ Enter your extension name or ID and see it in LinkedIn's actual JavaScript code.
 
 ---
 
-## **02 — Share this with someone who should know**
+## **02 | Share this with someone who should know**
 
 Most people have no idea this is happening. Use our pre-written posts and media assets to share on LinkedIn, X, Mastodon, Bluesky, or Facebook. Each post is tailored to the platform. One click.
 
 ---
 
-## **03 — Join our mailinglist and Whatsapp group**
+## **03 | Join our mailinglist and Whatsapp group**
 
-Legal updates, new technical findings, press coverage, and calls to action. No spam. Unsubscribe or leave anytime anytime.
+Legal updates, new technical findings, press coverage, and calls to action. No spam. Unsubscribe or leave anytime.
 
 [Join our mailinglist →](/signup/)  
 [Join our Whatsapp group →](https://chat.whatsapp.com/GEnUBww8I4yGygxeUU9coy)
 
 ---
-## 04 — Talk to the press
+## **04 | Talk to the press**
 
 Know a journalist? Ask them what they need to cover BrowserGate.   
 Don't know one? Call your local newspaper, radio station, or TV newsroom and ask why they haven't reported that LinkedIn scans 405 million users' browsers without consent.
@@ -45,7 +45,7 @@ Every professional with a LinkedIn account is affected. Every business with a Li
 
 ---
 
-## 05 — Send a letter
+## 05 | Send a letter
 
 Emails get ignored. Letters create a paper trail. They generate records. They require responses.
 
@@ -60,7 +60,7 @@ You can send letters to:
 
 ---
 
-## 06 — Request your data from LinkedIn
+## 06 | Request your data from LinkedIn
 
 You have the right to know what LinkedIn collected about you. Send them a GDPR Subject Access Request and demand they disclose:
 
@@ -76,7 +76,7 @@ Do not ask for the standard data export. Ask specifically for extension detectio
 
 ---
 
-## 07 — File a complaint with your data protection authority
+## 07 | File a complaint with your data protection authority
 
 Country-specific, pre-filled complaint forms for every EU/EEA data protection authority. Select your country, fill in your name, submit.
 
@@ -86,7 +86,7 @@ LinkedIn's EU lead supervisory authority is the Irish Data Protection Commission
 
 ---
 
-## 08 — Donate
+## 08 | Donate
 
 Microsoft has unlimited legal resources. They respond to a 5-page brief with a 120-page filing drafted by 50 lawyers. The goal is not to win on arguments. The goal is to exhaust opponents financially.
 
@@ -96,7 +96,7 @@ The only way to match that is collective funding. Your donation finances the leg
 
 ---
 
-## 09 — Register as a potential co-plaintiff
+## 09 | Register as a potential co-plaintiff
 
 We are preparing class action suits in multiple countries and jurisdictions. If you want to participate, register now. No obligation until a case is filed. We will contact you with details when proceedings begin in your jurisdiction.
 
@@ -104,7 +104,7 @@ We are preparing class action suits in multiple countries and jurisdictions. If 
 
 ---
 
-## 10 — Help collect evidence
+## 10 | Help collect evidence
 
 We have developed a Chrome extension that documents LinkedIn's scanning behavior on your browser. It captures evidence of the abuse with a tamper-proof timestamp, which you can upload to our server.
 

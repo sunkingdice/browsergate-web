@@ -102,6 +102,24 @@ handle /complain* {
 - Logo SVG variants (uncovered, unhinged, uncontrolled, unauthorized)
 - Systemd service for SvelteKit app
 
+## Email (Migadu)
+
+- **Domain:** browsergate.org
+- **Account:** admin@browsergate.org
+- **Webmail:** https://webmail.migadu.com
+
+| Service | Server | Port | Security |
+|---------|--------|------|----------|
+| IMAP | imap.migadu.com | 993 | TLS |
+| SMTP | smtp.migadu.com | 465 | TLS |
+| SMTP (alt) | smtp.migadu.com | 587 | StartTLS |
+| POP3 | pop.migadu.com | 995 | TLS |
+| ManageSieve | imap.migadu.com | 4190 | StartTLS |
+
+All services use password auth with `admin@browsergate.org` as username. Password stored separately (not in repo).
+
+For the contact form, use SMTP on port 465 (TLS).
+
 ## Notes
 
 - Ubuntu 24.04 SSH service is `ssh`, not `sshd`
