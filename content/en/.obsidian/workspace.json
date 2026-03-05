@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "Take action!/Share this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Share this"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "Take action!/Share this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for Share this"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "Take action!/Share this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from Share this"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "Take action!/Share this.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of Share this"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
+    "Take action!/Join WhatsApp Group.md",
+    "Take action!/_index.md",
     "contact/_index.md",
     "contact",
     "Take action!/Share this.md",
@@ -197,7 +199,6 @@
     "The deeper problem.md",
     "Why it's illegal.md",
     "extensions/_index.md",
-    "Take action!/_index.md",
     "take-action/share-this 2.md",
     "take-action/share-this 1.md",
     "take-action/share-this.md",

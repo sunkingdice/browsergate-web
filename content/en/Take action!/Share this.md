@@ -2,6 +2,7 @@
 title: Tell others about Browsergate
 linkTitle: Share this
 type: docs
+weight: 10
 ---
 
 There are 1.2 billion Linkedin users. 

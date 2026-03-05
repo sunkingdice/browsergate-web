@@ -4,6 +4,9 @@
 -}}
 {{ $baseURL := urls.Parse $.Site.Params.Baseurl -}}
 
+<div class="td-top-banner">
+  <strong>Update:</strong> Legal proceedings against LinkedIn have been filed. Law enforcement is involved. <a href="/updates/">Read updates here!</a>
+</div>
 <nav class="td-navbar js-navbar-scroll
       {{- if $cover }} td-navbar-cover td-navbar-transparent {{- end }}"
       {{- if eq (.Param "ui.navbar_theme") "dark" }} data-bs-theme="dark" {{- end }}>
@@ -78,5 +81,6 @@
   <div class="td-navbar__search d-none d-lg-block">
     {{ partial "search-input.html" . }}
   </div>
+  <a href="/take-action/" class="td-navbar-cta d-none d-md-inline-block">Take action now!</a>
 </div>
 </nav>
