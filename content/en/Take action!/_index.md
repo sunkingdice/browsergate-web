@@ -1,14 +1,15 @@
 ---
-title: 10 Things you can do to help stop BrowserGate
+title: 5 Things you can do to help stop BrowserGate
 linkTitle: Take action!
 type: docs
 sidebar_margin_top: true
 ---
-##### LinkedIn has 33,000 employees and a $15 billion legal budget. 
-##### But we are one billion LinkedIn users. – And you have this list.
+LinkedIn has 33,000 employees and a $15 billion legal budget.  
+But we are one billion LinkedIn users.  
+And you have this list.  
 
 
-## **01 | Check if you're on the list**
+## **01 | Check if your tools are on the list**
 
 Search the database of 6,153 extensions LinkedIn scans for.
 
@@ -37,15 +38,23 @@ Legal updates, new technical findings, press coverage, and calls to action. No s
 Know a journalist? Ask them what they need to cover BrowserGate.   
 Don't know one? Call your local newspaper, radio station, or TV newsroom and ask why they haven't reported that LinkedIn scans 405 million users' browsers without consent.
 
-[How to talk to the media →]
+[How to talk to the media →](/take-action/talk-to-the-press/)
 
 Every professional with a LinkedIn account is affected. Every business with a LinkedIn company page is affected. Every employee whose browser is being fingerprinted without their employer's knowledge is affected. That is a story.
 
+--- 
+### **05 | Support the Browsergate Legal Fund**
 
+Microsoft has unlimited legal resources. They respond to a 5-page brief with a 120-page filing drafted by 50 lawyers. The goal is not to win on arguments. The goal is to exhaust opponents financially.
+
+The only way to match that is collective funding. Your donation finances the legal proceedings through Fairlinked e.V., the German nonprofit pursuing DMA enforcement against LinkedIn.
+
+[Donate here→](/take-action/browsergate-legal-fund/)
 
 ---
 
-## 05 | Send a letter
+# Coming soon:
+### 06 | Send a letter
 
 Emails get ignored. Letters create a paper trail. They generate records. They require responses.
 
@@ -60,7 +69,7 @@ You can send letters to:
 
 ---
 
-## 06 | Request your data from LinkedIn
+### 07 | Request your data from LinkedIn
 
 You have the right to know what LinkedIn collected about you. Send them a GDPR Subject Access Request and demand they disclose:
 
@@ -76,7 +85,7 @@ Do not ask for the standard data export. Ask specifically for extension detectio
 
 ---
 
-## 07 | File a complaint with your data protection authority
+### 08 | File a complaint with your data protection authority
 
 Country-specific, pre-filled complaint forms for every EU/EEA data protection authority. Select your country, fill in your name, submit.
 
@@ -86,17 +95,7 @@ LinkedIn's EU lead supervisory authority is the Irish Data Protection Commission
 
 ---
 
-## 08 | Donate
-
-Microsoft has unlimited legal resources. They respond to a 5-page brief with a 120-page filing drafted by 50 lawyers. The goal is not to win on arguments. The goal is to exhaust opponents financially.
-
-The only way to match that is collective funding. Your donation finances the legal proceedings through Fairlinked e.V., the German nonprofit pursuing DMA enforcement against LinkedIn.
-
-[Donate →]
-
----
-
-## 09 | Register as a potential co-plaintiff
+### 09 | Register as a potential co-plaintiff
 
 We are preparing class action suits in multiple countries and jurisdictions. If you want to participate, register now. No obligation until a case is filed. We will contact you with details when proceedings begin in your jurisdiction.
 
@@ -104,7 +103,7 @@ We are preparing class action suits in multiple countries and jurisdictions. If 
 
 ---
 
-## 10 | Help collect evidence
+### 10 | Help collect evidence
 
 We have developed a Chrome extension that documents LinkedIn's scanning behavior on your browser. It captures evidence of the abuse with a tamper-proof timestamp, which you can upload to our server.
 
@@ -114,7 +113,7 @@ The more documented instances we have, the stronger the case in court.
 
 ---
 
-## For developers and LinkedIn tool makers
+# For developers and LinkedIn tool makers
 
 If you develop a LinkedIn tool or Chrome extension, join our working group. We have established Fairlinked e.V. as a non-profit trade association for commercial LinkedIn users. Fairlinked is registered with the EU and has entered a regulatory dialogue with the EU Commission about LinkedIn's compliance with EU regulations.
 
