@@ -4,7 +4,7 @@ linkTitle: What is BrowserGate?
 type: docs
 weight: 1
 ---
-## What LinkedIn Does
+## Linkedin is searching your computer
 
 Every time you visit linkedin.com, a JavaScript program embedded in the page scans your browser for installed Chrome extensions. The program runs silently, without any visible indicator to the user. It does not ask for consent. It does not disclose what it is doing. It reports the results to LinkedIn's servers.
 

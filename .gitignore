@@ -4,3 +4,5 @@ resources/
 node_modules/
 .DS_Store
 .env
+static/downloads/LinkedInBrowserGate.zip
+static/downloads/browsergate-evidence-pack.zip

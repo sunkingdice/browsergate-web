@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Evidence Pack.md",
+                "file": "What is BrowserGate?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Evidence Pack"
+              "title": "What is BrowserGate?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Evidence Pack.md",
+                "file": "What is BrowserGate?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Evidence Pack"
+              "title": "Backlinks for What is BrowserGate?"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Evidence Pack.md",
+                "file": "What is BrowserGate?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Evidence Pack"
+              "title": "Outgoing links from What is BrowserGate?"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Evidence Pack.md",
+                "file": "What is BrowserGate?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Evidence Pack"
+              "title": "Outline of What is BrowserGate?"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
+    "How It Works.md",
+    "The Evidence Pack.md",
+    "downloads/LinkedInBrowserGate.zip.md",
+    "downloads",
+    "LinkedInBrowserGate.zip",
     "The deeper problem.md",
     "Why it's illegal.md",
-    "The Evidence Pack.md",
-    "How It Works.md",
     "What is BrowserGate?.md",
     "extensions/_index.md",
     "Take action!/_index.md",
