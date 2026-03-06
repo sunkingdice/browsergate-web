@@ -2,7 +2,7 @@
 title: "The Attack: How it works"
 linkTitle: How it works
 type: docs
-weight: 2
+weight: 20
 ---
 Every time you open LinkedIn in a Chrome-based browser, LinkedIn's JavaScript executes a silent scan of your installed browser extensions. The scan probes for thousands of specific extensions by ID, collects the results, encrypts them, and transmits them to LinkedIn's servers. The entire process happens in the background. There is no consent dialog, no notification, no mention of it in LinkedIn's privacy policy.
 

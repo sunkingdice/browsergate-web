@@ -2,7 +2,7 @@
 title: Introduction - What is BrowserGate?
 linkTitle: What is BrowserGate?
 type: docs
-weight: 1
+weight: 10
 ---
 ## Linkedin is searching your computer
 

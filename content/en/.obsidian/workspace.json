@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "updates/_index.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,9 +185,16 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
+    "Executive Summary.md",
+    "extensions/_index.md",
+    "The deeper problem.md",
+    "Why it's illegal.md",
+    "The Evidence Pack.md",
+    "How It Works.md",
+    "What is BrowserGate?.md",
     "_index.md",
-    "Take action!/_index.md",
     "updates/_index.md",
+    "Take action!/_index.md",
     "updates",
     "Take action!/Browsergate Legal Fund.md",
     "Take action!/Share this.md",
@@ -196,15 +203,9 @@
     "Take action!/Join WhatsApp Group.md",
     "contact/_index.md",
     "contact",
-    "What is BrowserGate?.md",
-    "How It Works.md",
-    "The Evidence Pack.md",
     "downloads/LinkedInBrowserGate.zip.md",
     "downloads",
     "LinkedInBrowserGate.zip",
-    "The deeper problem.md",
-    "Why it's illegal.md",
-    "extensions/_index.md",
     "take-action/share-this 2.md",
     "take-action/share-this 1.md",
     "take-action/share-this.md",
@@ -218,7 +219,6 @@
     "de-ai.md",
     "Introduction1.md",
     "blog/_index.md",
-    "foo/bar.md",
     "foo"
   ]
 }

@@ -1,51 +1,53 @@
 ---
-title: LinkedIn's massive spying operation
-linkTitle: '<span class="linkedin-color">LinkedIn</span> BrowserGate'
+title: LinkedIn Is Illegally Searching Your Computer
+linkTitle: <span class="linkedin-color">LinkedIn</span> BrowserGate
 type: docs
 ---
-Microsoft Corporation's LinkedIn is running a massive, global, and illegal spying operation on every computer that visits their website.
-### Executive Summary
 
-##### 1. The Regulation of Linkedin
-In 2024 Microsoft was designated as a "gatekeeper" under the Digital Markets Act in the EU.  
-The two regulated products are Microsoft Windows and Microsoft LinkedIn.
+### Microsoft is running one of the largest corporate espionage operations in modern history.  
 
-The [Digital Markets Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925#:~:text=The%20gatekeeper%20shall%20provide%20business,the%20relevant%20core%20platform%20services) mandates that gatekeepers allow  
-> business users and authorized third parties **free, effective, high-quality, continuous and real-time access to all data**, including personal data, that is generated through the use of (LinkedIn).
-##### 2. The Legalization of Linkedin Tools
-This regulation **legalizes the use of third-party tools** to access your data on LinkedIn.  
-(Which renders  section 8.2.2 of [LinkedIn's Terms of Service](https://www.linkedin.com/legal/user-agreement#:~:text=Develop%2C%20support%20or%20use%20software%2C%20devices%2C%20scripts%2C%20robots%20or%20any%20other%20means%20or%20processes%20(such%20as%20crawlers%2C%20browser%20plugins%20and%20add%2Dons%20or%20any%20other%20technology)%20to%20scrape%20or%20copy%20the%20Services%2C%20including%20profiles%20and%20other%20data%20from%20the%20Services%3B) void.)
+Every time any of LinkedIn's one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn's servers and to third-party companies including an American-Israeli cybersecurity firm. The user is never asked. Never told. LinkedIn's privacy policy does not mention it. Because LinkedIn knows each user's real name, employer, and job title, it is not searching anonymous visitors. It is searching identified people at identified companies. Millions of companies. Every day. All over the world.
 
-Instead of complying with this regulation, Microsoft decided to distract EU regulators in Brussels with what can only be described as "compliance theater" – It includes the publications of two unnecessary, inadequate and insufficient APIs, misleading statements in public hearings and the complete omission of the fact that there already is a highly effective API "Voyager" that Microsoft uses to power all their web and mobile services.
+##### This is illegal and potentially a criminal offense in every jurisdiction we have examined.
+ 
+---
+If you you're in a hurry -> read our [Executive Summary](/executive-summary/)
 
-At the same time LinkedIn systematically shuts down companies who offer LinkedIn tools.   
+---
+## Who we are
+Fairlinked e.V. is an association of commercial LinkedIn users. We represent the professionals who use LinkedIn, the businesses that invest in and depend on the platform, and the toolmakers who build products for it.
 
-Businesses destroyed. Accounts suspended. Customers threatened. Small companies sued into obliteration by a corporation with an unlimited legal war chest.
-##### 3. Non-Compliance turns into criminal behavior
-As part of the campaign in removing everyone from the market who might actually make use of the Digital Markets Act, **LinkedIn started injecting malicious code into the browsers of their users**, without their knowledge or their consent.
+BrowserGate is our investigation and campaign to document one of the largest corporate espionage and data breach scandals in digital history, to inform the public and regulators, to collect evidence, and to raise funds for the legal proceedings required to stop it.
 
-At the time of writing, this code downloads a list of 6,153 software products and brute-forces the detection of each one. The scan covers extensions with a combined user base of approximately 405 million people.
+## **What we found**
 
-##### The Bigger Picture
-Because LinkedIn knows each visitor's name, employer, and job title, every detected extension is matched to an identified individual. And because LinkedIn knows where each user works, these individual scans aggregate into detailed profiles of companies, institutions, and government agencies, revealing which software tools their employees use without the organization's knowledge or consent.
+### Mass breach of personal data
+LinkedIn's scan reveals the religious beliefs, political opinions, disabilities, and job search activity of identified individuals. LinkedIn scans for extensions that identify practicing Muslims, extensions that reveal political orientation, extensions built for neurodivergent users, and 509 job search tools that expose who is secretly looking for work on the very platform where their current employer can see their profile.
 
-### A Massive Data Breach of Sensitive Data and Trade Secrets
+Under EU law, this category of data is not regulated. It is prohibited. LinkedIn has no consent, no disclosure, and no legal basis. Its privacy policy does not mention any of this.
 
-The malicious JavaScript that Microsoft secretly injects into the LinkedIn website searches each user's browser for installed software applications.
+### Corporate espionage and trade secret theft
 
-The search reveals:
+LinkedIn scans for over 200 products that directly compete with its own sales tools, including Apollo, Lusha, and ZoomInfo. Because LinkedIn knows each user's employer, it can map which companies use which competitor products. It is extracting the customer lists of thousands of software companies from their users' browsers without anyone's knowledge.
 
-- **Political opinions** of users, through extensions like "Anti-woke," "Anti-Zionist Tag," and "No more Musk"
-- **Religious beliefs**, through extensions like "PordaAI" (blur haram content) and "Deen Shield" (blocks haram sites)
-- **Disability and neurodivergence**, through extensions like "simplify" (for neurodivergent users)
-- **Employment status**, through 509 job search extensions that reveal who is looking for work on the very platform where their current employer can see their profile
-- **Trade secrets** of millions of companies, by mapping which organizations use which competitor products, from Apollo to ZoomInfo
+Then it uses what it finds. LinkedIn has already sent enforcement threats to users of third-party tools, using data obtained through this covert scanning to identify its targets.
 
-LinkedIn has not disclosed this practice in its privacy policy. There is no mention of extension scanning in any public-facing document.
+### Deceiving EU regulators
 
-[Search the full list of 6,153 extensions →](/extensions/)
+In 2023, the EU designated LinkedIn as a regulated gatekeeper under the Digital Markets Act and ordered it to open its platform to third-party tools. LinkedIn's response:
 
-[Read how the detection system works →](/how-it-works/)
+It published two restricted APIs and presented them to the European Commission as compliance. Together, these APIs handle approximately 0.07 calls per second. Meanwhile, LinkedIn already operates an internal API called Voyager that powers every LinkedIn web and mobile product at 163,000 calls per second. In Microsoft's 249-page compliance report to the EU, the word "API" appears 533 times. "Voyager" appears zero times.
+
+At the same time, LinkedIn expanded its surveillance of the exact tools the regulation was designed to protect. The scan list grew from roughly 461 products in 2024 to over 6,000 by February 2026. The EU told LinkedIn to let third-party tools in. LinkedIn built a surveillance system to find and punish every user of those tools.
+
+### Shipping your data to third parties
+
+LinkedIn loads an invisible tracking element from HUMAN Security (formerly PerimeterX), an American-Israeli cybersecurity firm, zero pixels wide, hidden off-screen, that sets cookies on your browser without your knowledge. A separate fingerprinting script runs from LinkedIn's own servers. A third script from Google executes silently on every page load. All of it encrypted. None of it disclosed.
+
+## Why we need you
+
+Microsoft has 33,000 employees and a $15 billion legal budget. We have the evidence. What we need is people and funding to hold them accountable.
 
 [Take action →](/take-action/)
-## Overview
+
+## Table of Content

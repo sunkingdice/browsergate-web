@@ -2,7 +2,7 @@
 title: Scanned Extensions Database
 linkTitle: Scanned Extensions Database
 type: docs
-weight: 10
+weight: 60
 sidebar_margin_top: true
 ---
 

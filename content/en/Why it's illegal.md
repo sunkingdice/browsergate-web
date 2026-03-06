@@ -2,7 +2,7 @@
 title: Why it's illegal and potentially criminal
 linkTitle: Why it's illegal
 type: docs
-weight: 4
+weight: 40
 ---
 LinkedIn scans your browser for installed extensions every time you visit the site. It does this without asking, without telling you, and without any mention in its privacy policy.
 
