@@ -51,7 +51,7 @@ enableGitInfo = true
   offlineSearch = true
 
   [params.copyright]
-    authors = 'BrowserGate'
+    authors = 'BrowserGate, by Fairlinked - Alliance for digital fairness e.V. - [fairlinked.eu](https://fairlinked.eu)'
     from_year = 2025
 
   [params.ui]
