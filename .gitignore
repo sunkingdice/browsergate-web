@@ -3,6 +3,7 @@ resources/
 .hugo_build.lock
 node_modules/
 .DS_Store
+.obsidian/
 .env
 static/downloads/LinkedInBrowserGate.zip
 static/downloads/browsergate-evidence-pack.zip
