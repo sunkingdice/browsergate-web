@@ -5,7 +5,7 @@ sidebar_margin_top: true
 ---
 ---
 #### LinkedIn Faces First Court Action Over Covert Browser Scanning
-Munich, 20.March 2026
+Munich, 22. January 2026
 
 Teamfluence Signal Systems OÜ, an Estonian software company behind the social selling platform Teamfluence, has filed a preliminary injunction against LinkedIn Ireland Unlimited Company and LinkedIn Germany GmbH at the Regional Court of Munich (Landgericht München I, Case No. 37 O 104/26). 
 
