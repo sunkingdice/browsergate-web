@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "updates/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "updates/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "updates/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Take action!/_index.md",
+                "file": "updates/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +185,11 @@
   },
   "active": "ca8c137daebc198e",
   "lastOpenFiles": [
-    "Take action!/Browsergate Legal Fund.md",
+    "_index.md",
     "Take action!/_index.md",
+    "updates/_index.md",
+    "updates",
+    "Take action!/Browsergate Legal Fund.md",
     "Take action!/Share this.md",
     "Take action!/Talk to the press.md",
     "Take action!/Join our mailing list.md",
@@ -206,7 +209,6 @@
     "take-action/share-this 1.md",
     "take-action/share-this.md",
     "take-action",
-    "_index.md",
     "search.md",
     "signup/_index.md",
     "Take action!",
@@ -217,7 +219,6 @@
     "Introduction1.md",
     "blog/_index.md",
     "foo/bar.md",
-    "foo/_index.md",
     "foo"
   ]
 }

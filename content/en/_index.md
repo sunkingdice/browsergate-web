@@ -22,7 +22,7 @@ At the same time LinkedIn systematically shuts down companies who offer LinkedIn
 
 Businesses destroyed. Accounts suspended. Customers threatened. Small companies sued into obliteration by a corporation with an unlimited legal war chest.
 ##### 3. Non-Compliance turns into criminal behavior
-As part of the campaign to remove everyone from the market who might actually make use of the Digital Markets Act, **LinkedIn started injecting malicious code into the browsers of their users**, without their knowledge or their consent.
+As part of the campaign in removing everyone from the market who might actually make use of the Digital Markets Act, **LinkedIn started injecting malicious code into the browsers of their users**, without their knowledge or their consent.
 
 At the time of writing, this code downloads a list of 6,153 software products and brute-forces the detection of each one. The scan covers extensions with a combined user base of approximately 405 million people.
 

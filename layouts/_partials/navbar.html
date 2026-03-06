@@ -4,9 +4,11 @@
 -}}
 {{ $baseURL := urls.Parse $.Site.Params.Baseurl -}}
 
+{{ with .Site.Data.banner }}{{ if .enabled }}
 <div class="td-top-banner">
-  <strong>Update:</strong> Legal proceedings against LinkedIn have been filed. Law enforcement is involved. <a href="/updates/">Read updates here!</a>
+  <strong>Update:</strong> {{ .text }} <a href="{{ .link_url }}">{{ .link_text }}</a>
 </div>
+{{ end }}{{ end }}
 <nav class="td-navbar js-navbar-scroll
       {{- if $cover }} td-navbar-cover td-navbar-transparent {{- end }}"
       {{- if eq (.Param "ui.navbar_theme") "dark" }} data-bs-theme="dark" {{- end }}>
