@@ -13,6 +13,3 @@ The company is represented by Glade Michel Wirtz (GMW), the law firm that secure
 
 The LinkedIn proceedings turn on alleged violations of the Digital Markets Act, EU competition law, and German data protection rules. The case is presided over by Dr. Michaela Althaus of the 37th Civil Chamber — the same judge who previously ruled against Google in a competition law injunction proceeding.
 
----
-
-
