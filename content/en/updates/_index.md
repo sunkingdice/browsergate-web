@@ -11,7 +11,7 @@ Teamfluence Signal Systems OÜ, an Estonian software company behind the social s
 
 The company is represented by Glade Michel Wirtz (GMW), the law firm that secured the first successful DMA-based private enforcement action last year, when the Mainz Regional Court ordered Google to stop favouring its own Gmail service during Android account setup. 
 
-The LinkedIn proceedings turn on alleged violations of the Digital Markets Act, EU competition law, and German data protection rules, following LinkedIn's systematic blocking of Teamfluence user accounts starting in December 2025. The case is presided over by Dr. Michaela Althaus of the 37th Civil Chamber — the same judge who previously ruled against Google in a competition law injunction proceeding.
+The LinkedIn proceedings turn on alleged violations of the Digital Markets Act, EU competition law, and German data protection rules. The case is presided over by Dr. Michaela Althaus of the 37th Civil Chamber — the same judge who previously ruled against Google in a competition law injunction proceeding.
 
 ---
 
