@@ -6,12 +6,16 @@ type: docs
 
 ### Microsoft is running one of the largest corporate espionage operations in modern history.  
 
-Every time any of LinkedIn's one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn's servers and to third-party companies including an American-Israeli cybersecurity firm. The user is never asked. Never told. LinkedIn's privacy policy does not mention it. Because LinkedIn knows each user's real name, employer, and job title, it is not searching anonymous visitors. It is searching identified people at identified companies. Millions of companies. Every day. All over the world.
+Every time any of LinkedIn's one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn's servers and to third-party companies including an American-Israeli cybersecurity firm. 
+
+The user is never asked. Never told. LinkedIn's privacy policy does not mention it. 
+
+Because LinkedIn knows each user's real name, employer, and job title, it is not searching anonymous visitors. It is searching identified people at identified companies. Millions of companies. Every day. All over the world.
 
 ##### This is illegal and potentially a criminal offense in every jurisdiction we have examined.
- 
----
-If you you're in a hurry -> read our [Executive Summary](/executive-summary/)
+  
+
+(If you you're in a hurry -> read our [Executive Summary](/executive-summary/))
 
 ---
 ## Who we are
