@@ -2,6 +2,7 @@
 title: Updates
 type: docs
 sidebar_margin_top: true
+weight: 200
 ---
 ---
 #### LinkedIn Faces First Court Action Over Covert Browser Scanning

@@ -145,7 +145,7 @@
           <i class="{{ . }}"></i>
         {{- end -}}
         <span class="{{ if $active }}td-sidebar-nav-active-item{{ end }}">
-          {{- if $treeRoot }}{{ $s.LinkTitle | safeHTML }}{{ else }}{{ $s.LinkTitle }}{{ end -}}
+          {{ $s.LinkTitle | safeHTML }}
         </span> {{- /**/ -}}
       </a> {{- /**/ -}}
     </label>
@@ -170,7 +170,7 @@
         {{- if $active }}td-sidebar-nav-active-item{{ end -}}
         {{- if and $treeRoot $s.Params.sidebar_root_for site.Params.ui.sidebar_root_enabled }} td-sidebar-root-up-icon{{ end -}}
       ">
-        {{- if $treeRoot }}{{ $s.LinkTitle | safeHTML }}{{ else }}{{ $s.LinkTitle }}{{ end -}}
+        {{ $s.LinkTitle | safeHTML }}
       </span></a>
     {{- end -}}
     {{ if $withChild -}}

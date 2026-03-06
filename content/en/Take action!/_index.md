@@ -1,8 +1,9 @@
 ---
 title: 5 Things you can do to help stop BrowserGate
-linkTitle: Take action!
+linkTitle: '<span class="linkedin-color">Take action!</span>'
 type: docs
 sidebar_margin_top: true
+weight: 100
 ---
 LinkedIn has 33,000 employees and a $15 billion legal budget.  
 But we are one billion LinkedIn users.  

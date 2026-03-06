@@ -12,6 +12,7 @@ cd "$ROOT"
 # Build Svelte islands
 echo "→ Building Svelte islands..."
 cd svelte-islands
+npm install
 npx vite build --emptyOutDir
 cd "$ROOT"
 
