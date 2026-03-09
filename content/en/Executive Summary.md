@@ -24,7 +24,7 @@ Businesses destroyed. Accounts suspended. Customers threatened. Small companies 
 ##### 3. Non-Compliance turns into criminal behavior
 As part of the campaign in removing everyone from the market who might actually make use of the Digital Markets Act, **LinkedIn started injecting malicious code into the browsers of their users**, without their knowledge or their consent.
 
-At the time of writing, this code downloads a list of 6,153 software products and brute-forces the detection of each one. The scan covers extensions with a combined user base of approximately 405 million people.
+At the time of writing, this code downloads a list of 6,222 software products and brute-forces the detection of each one. The scan covers extensions with a combined user base of approximately 405 million people.
 
 ##### 4. The Bigger Picture
 Because LinkedIn knows each visitor's name, employer, and job title, every detected extension is matched to an identified individual. And because LinkedIn knows where each user works, these individual scans aggregate into detailed profiles of companies, institutions, and government agencies, revealing which software tools their employees use without the organization's knowledge or consent.

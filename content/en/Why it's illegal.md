@@ -60,7 +60,7 @@ Article 9(2) lists ten exemptions that can override the prohibition. None of the
 
 **Explicit consent (Art. 9(2)(a)):** LinkedIn never asks for consent to scan extensions. There is no dialog, no toggle, no checkbox. LinkedIn's privacy policy does not mention extension scanning at all.
 
-**Manifestly made public (Art. 9(2)(e)):** This exemption applies when people voluntarily make their own data public, such as announcing their religion on a public social media profile. Installing a browser extension is a private act. Extensions are not visible to websites. The user has not made this information public. LinkedIn had to build a detection system, embed 6,167 probe targets in its JavaScript, and fire thousands of fetch requests to extract this data. That is the opposite of "manifestly made public."
+**Manifestly made public (Art. 9(2)(e)):** This exemption applies when people voluntarily make their own data public, such as announcing their religion on a public social media profile. Installing a browser extension is a private act. Extensions are not visible to websites. The user has not made this information public. LinkedIn had to build a detection system, embed 6,222 probe targets in its JavaScript, and fire thousands of fetch requests to extract this data. That is the opposite of "manifestly made public."
 
 **Legitimate interest:** This is not even an available basis for special category data. Legitimate interest under Article 6(1)(f) cannot be used to process data that falls under Article 9. The prohibition is absolute unless one of the Article 9(2) exemptions applies.
 
@@ -108,7 +108,7 @@ LinkedIn's privacy policy contains no mention of extension scanning. This is its
 
 The ePrivacy Directive (2002/58/EC, as amended by 2009/136/EC) requires consent before accessing information stored on a user's device. This is the same rule that requires cookie consent banners across the web. It applies equally to browser extension scanning.
 
-When LinkedIn fires 6,167 fetch requests to `chrome-extension://` URLs, it is accessing information stored on the user's terminal equipment: specifically, which software is installed. Each probe is an attempt to read data from the user's device.
+When LinkedIn fires 6,222 fetch requests to `chrome-extension://` URLs, it is accessing information stored on the user's terminal equipment: specifically, which software is installed. Each probe is an attempt to read data from the user's device.
 
 Every EU member state has transposed this directive into national law:
 

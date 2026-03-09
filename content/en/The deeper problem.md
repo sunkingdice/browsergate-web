@@ -52,17 +52,17 @@ None of this is hypothetical. The technical architecture documented on the [How 
 
 ---
 
-## The competitive intelligence layer: 6,167 stolen customer lists
+## The competitive intelligence layer: 6,222 stolen customer lists
 
 Every software product has a customer list. That list is universally recognized as a trade secret, in the EU, in the US, and in every major jurisdiction. Companies spend millions protecting it. Sales teams sign non-compete agreements to prevent its leakage. Lawsuits are filed over it routinely.
 
-LinkedIn has built a system that extracts customer lists from 6,167 software companies simultaneously. Without asking. Without paying. Without the companies knowing.
+LinkedIn has built a system that extracts customer lists from 6,222 software companies simultaneously. Without asking. Without paying. Without the companies knowing.
 
 Here is how it works: Adobe's Acrobat extension has millions of users. LinkedIn scans for it. Every LinkedIn user who has the Adobe Acrobat extension installed is identified, by name, employer, and job title. LinkedIn now has a partial customer list for Adobe, segmented by company, industry, and role. Multiply this across all 6,222 extensions.
 
 LinkedIn is not buying this data on the open market. It is not licensing it from data brokers. It is extracting it from users' browsers through a covert detection system, attaching it to verified professional identities, and transmitting it, encrypted, to its own servers. This is the kind of competitive intelligence that, if obtained by an employee walking out of a company with a USB drive, would result in criminal prosecution.
 
-LinkedIn does it to 6,167 companies at once, continuously, and at scale.
+LinkedIn does it to 6,222 companies at once, continuously, and at scale.
 
 ---
 
@@ -122,7 +122,7 @@ It is an illegal profiling system that collects data on religion, politics, heal
 
 It is a corporate intelligence operation that maps the technology stacks, security postures, and internal cultures of tens of millions of companies.
 
-It is a trade secret extraction machine that compiles customer lists for 6,167 software vendors without their knowledge or consent.
+It is a trade secret extraction machine that compiles customer lists for 6,222 software vendors without their knowledge or consent.
 
 It is a tool for surveilling government employees, including the very regulators and legislators responsible for overseeing LinkedIn's compliance with the law.
 

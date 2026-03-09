@@ -95,6 +95,49 @@ handle /complain* {
 }
 ```
 
+## Utility Scripts
+
+All scripts live in `utils/`.
+
+### `deploy.sh <commit message>`
+
+Builds Svelte islands, commits, pushes to GitHub, SSHs into the production server, pulls, rebuilds Hugo and the SvelteKit app, and restarts the service.
+
+```bash
+./utils/deploy.sh "fix typo on landing page"
+```
+
+### `restart.sh`
+
+Kills any running local Hugo server, rebuilds Svelte islands, and starts Hugo dev server in the background with `--disableFastRender` (forces full SCSS recompile).
+
+### `update-extensions.js [path-to-bundle] [--fix]`
+
+Updates the scanned extensions database (`static/data/extensions.json`). Extracts extension IDs from LinkedIn's JavaScript bundle, diffs against the existing database, scrapes the Chrome Web Store for metadata of new extensions, and merges them in.
+
+```bash
+# Default: uses sources/5fdhwcppjcvqvxsawd8pg1n51.js
+node utils/update-extensions.js
+
+# Use a different bundle
+node utils/update-extensions.js sources/new-bundle.js
+
+# Fix mode: re-scrape entries with missing names
+node utils/update-extensions.js --fix
+```
+
+### `update-count.js`
+
+Reads the current count of extensions in `extensions.json` and updates all `.md` content files that mention the old count.
+
+```bash
+node utils/update-count.js
+```
+
+### `server-setup.sh`
+
+Installs required dependencies (Go, Node.js, npm, PostCSS) on the production server.
+
 ## TODO
 
 - SvelteKit complaint app (/complain): form → Claude API → PDF → Pingen → Stripe

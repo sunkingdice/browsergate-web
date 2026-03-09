@@ -14,7 +14,7 @@ Its own engineer, under oath, admits it.
 **Size:** ~2.7 MB (13,159 lines of minified JavaScript)  
 **Webpack chunk:** `chunk.905`
 
-This is the file LinkedIn serves to every Chrome user who visits linkedin.com. It contains a hardcoded array of 5,459 Chrome extension IDs, each paired with a specific internal file path that LinkedIn engineers mapped for detection.
+This is the file LinkedIn serves to every Chrome user who visits linkedin.com. It contains a hardcoded array of 6,222 Chrome extension IDs, each paired with a specific internal file path that LinkedIn engineers mapped for detection.
 
 Line 9571, character offset 443:
 

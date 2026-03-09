@@ -17,7 +17,7 @@ Yes, post it on LinkedIn. That's the point.
 
 ### Post 1 — The basics
 
-> LinkedIn scans your browser for 5,459 Chrome extensions every time you visit the site.  
+> LinkedIn scans your browser for 6,222 Chrome extensions every time you visit the site.  
 > No consent. No disclosure. No mention of it in their privacy policy.
 > 
 > The scan reveals which tools you use for sales, job searching, ad blocking, VPN, and security.  
@@ -66,7 +66,7 @@ Yes, post it on LinkedIn. That's the point.
 
 ### Tweet 1
 
-> LinkedIn scans your browser for 5,459 Chrome extensions. No consent. No disclosure. Their privacy policy mentions none of it.
+> LinkedIn scans your browser for 6,222 Chrome extensions. No consent. No disclosure. Their privacy policy mentions none of it.
 > 
 > The scan reveals religion, politics, disability, and employment status.
 > 
@@ -108,7 +108,7 @@ Yes, post it on LinkedIn. That's the point.
 
 ### Post 2
 
-> Fun fact: LinkedIn's JavaScript bundle contains a hardcoded list of 5,459 Chrome extension IDs, each paired with a specific internal file path that LinkedIn engineers mapped manually.
+> Fun fact: LinkedIn's JavaScript bundle contains a hardcoded list of 6,222 Chrome extension IDs, each paired with a specific internal file path that LinkedIn engineers mapped manually.
 > 
 > They probe your browser using three escalating detection methods. If one fails, they try the next.
 > 
@@ -136,7 +136,7 @@ Yes, post it on LinkedIn. That's the point.
 
 > **Subject:** LinkedIn is scanning your browser extensions
 > 
-> You should look at this. LinkedIn runs a scan on every Chrome user's browser, checking for 5,459 specific extensions. No consent, nothing in their privacy policy about it.
+> You should look at this. LinkedIn runs a scan on every Chrome user's browser, checking for 6,222 specific extensions. No consent, nothing in their privacy policy about it.
 > 
 > It detects sales tools, job search extensions, ad blockers, VPNs, and extensions tied to religion and politics. They've been doing it since at least 2017 and expanded it massively in 2025.
 > 

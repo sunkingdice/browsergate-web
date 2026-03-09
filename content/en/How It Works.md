@@ -93,7 +93,7 @@ async function c() {
 }
 ```
 
-This fires all 6,167 `fetch()` requests simultaneously using `Promise.allSettled()`. Every request that resolves as `"fulfilled"` means that extension is installed. The function returns an array of detected extension IDs.
+This fires all 6,222 `fetch()` requests simultaneously using `Promise.allSettled()`. Every request that resolves as `"fulfilled"` means that extension is installed. The function returns an array of detected extension IDs.
 
 ### Method 2: Staggered sequential scan
 
@@ -404,7 +404,7 @@ These flags allow LinkedIn to enable or disable fingerprinting for specific user
           │    (canvas, WebGL, audio, fonts, hardware, network, battery...)
           │
           ├──► AED: fetchExtensions()
-          │    Fires up to 6,167 fetch() requests to chrome-extension:// URLs
+          │    Fires up to 6,222 fetch() requests to chrome-extension:// URLs
           │    Collects IDs of every installed extension that responds
           │    Fires AedEvent with browserExtensionIds[]
           │

@@ -24,23 +24,23 @@ Pick the one that fits the journalist's beat. Privacy reporter? Send the religio
 > 
 > Hi [name],
 > 
-> LinkedIn silently scans every Chrome user's browser for 5,459 installed extensions. The scan detects extensions that reveal religious belief (PordaAI, Deen Shield), political opinion (Anti-Zionist Tag, No more Musk), disability (a neurodivergence tool called "simplify"), and employment status (509 job search extensions covering 1.4 million users).
+> LinkedIn silently scans every Chrome user's browser for 6,222 installed extensions. The scan detects extensions that reveal religious belief (PordaAI, Deen Shield), political opinion (Anti-Zionist Tag, No more Musk), disability (a neurodivergence tool called "simplify"), and employment status (509 job search extensions covering 1.4 million users).
 > 
 > This is GDPR Article 9 special category data. No consent. No disclosure. LinkedIn's privacy policy contains zero mention of extension scanning.
 > 
 > A sworn affidavit from LinkedIn's Senior Manager of Software Engineering confirms the company "invested in extension detection mechanisms" deliberately.
 > 
-> Full technical evidence, legal analysis, and a searchable database of all 5,459 scanned extensions: browsergate.eu
+> Full technical evidence, legal analysis, and a searchable database of all 6,222 scanned extensions: browsergate.eu
 > 
 > Happy to connect you with the research team if you want more detail.
 
 ### For tech reporters
 
-> **Subject: LinkedIn's JavaScript bundle contains 5,459 hardcoded Chrome extension IDs**
+> **Subject: LinkedIn's JavaScript bundle contains 6,222 hardcoded Chrome extension IDs**
 > 
 > Hi [name],
 > 
-> LinkedIn serves a JavaScript file to every Chrome user that contains a hardcoded array of 5,459 Chrome extension IDs. Each ID is paired with a specific internal file path that LinkedIn engineers mapped for detection.
+> LinkedIn serves a JavaScript file to every Chrome user that contains a hardcoded array of 6,222 Chrome extension IDs. Each ID is paired with a specific internal file path that LinkedIn engineers mapped for detection.
 > 
 > The system uses three escalating methods: externally_connectable messaging, web_accessible_resources fetch, and DOM mutation detection. Results are exfiltrated via fireTrackingPayload("AedEvent") to LinkedIn's li/track telemetry endpoint.
 > 
@@ -86,7 +86,7 @@ Pick the one that fits the journalist's beat. Privacy reporter? Send the religio
 > 
 > Hi [name],
 > 
-> LinkedIn scans every Chrome user's browser for 5,459 installed extensions without consent or disclosure. The scan covers sales tools, job search extensions, ad blockers, VPNs, and extensions tied to religion, politics, and disability. About 405 million users are affected.
+> LinkedIn scans every Chrome user's browser for 6,222 installed extensions without consent or disclosure. The scan covers sales tools, job search extensions, ad blockers, VPNs, and extensions tied to religion, politics, and disability. About 405 million users are affected.
 > 
 > Your audience can check if their extensions are on the list at browsergate.eu. The site includes a searchable database of every extension LinkedIn scans for, pulled directly from LinkedIn's own source code.
 > 
