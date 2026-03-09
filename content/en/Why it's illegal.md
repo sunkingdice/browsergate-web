@@ -148,7 +148,7 @@ LinkedIn used the results of BrowserGate scanning to identify users of third-par
 
 ### § 23 GeschGehG: Trade secret theft
 
-Each extension vendor's user base is a trade secret. When LinkedIn scans for a competitor's extension and detects which LinkedIn users have it installed, LinkedIn has obtained that competitor's customer data through improper means. With 6,153 extensions in the scan list, this represents thousands of potential separate offenses.
+Each extension vendor's user base is a trade secret. When LinkedIn scans for a competitor's extension and detects which LinkedIn users have it installed, LinkedIn has obtained that competitor's customer data through improper means. With 6,222 extensions in the scan list, this represents thousands of potential separate offenses.
 
 ---
 

@@ -12,7 +12,7 @@ And you have this list.
 
 ## **01 | Check if your tools are on the list**
 
-Search the database of 6,153 extensions LinkedIn scans for.
+Search the database of 6,222 extensions LinkedIn scans for.
 
 [Search the list →](/extensions/)
 

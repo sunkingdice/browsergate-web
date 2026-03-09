@@ -170,6 +170,16 @@
     "extensionId": "jiagbhjgocclknkbjnlpgbenpnfldoii"
   },
   {
+    "name": "360Airo LinkedIn Automation",
+    "category": "Tools",
+    "description": "Smart LinkedIn automation with AI-personalized outreach.",
+    "country": "IN",
+    "lastUpdate": "2026-02-06",
+    "storeUrl": "https://chromewebstore.google.com/detail/ppemikmneckkgmmbedecgnclmcgfhemf",
+    "website": "",
+    "extensionId": "ppemikmneckkgmmbedecgnclmcgfhemf"
+  },
+  {
     "name": "3Liner - 원클릭으로 확인하는 세줄요약",
     "category": "Workflow & Planning",
     "description": "원클릭으로 확인하는 세줄요약",
@@ -2440,6 +2450,16 @@
     "extensionId": "ndhpbdebfkadgpcincjfkiobmcnihomi"
   },
   {
+    "name": "AI Resume Maker",
+    "category": "Tools",
+    "description": "Analyze job descriptions, optimize your resume, and generate cover letters directly from your browser.",
+    "country": "",
+    "lastUpdate": "2026-02-19",
+    "storeUrl": "https://chromewebstore.google.com/detail/pladepfjgbdfedagfnecnphppmikhehi",
+    "website": "essentialx.us",
+    "extensionId": "pladepfjgbdfedagfnecnphppmikhehi"
+  },
+  {
     "name": "AI Resume Optimizer",
     "category": "Tools",
     "description": "Optimize your resume to match job descriptions for ATS.",
@@ -2798,6 +2818,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/aiboss/pcmjcialfdfoiflghbkemgmeedndiihj",
     "website": "",
     "extensionId": "pcmjcialfdfoiflghbkemgmeedndiihj"
+  },
+  {
+    "name": "AiCareer Partners Agent",
+    "category": "Workflow & Planning",
+    "description": "AI-powered job application assistant that auto-fills forms intelligently.",
+    "country": "",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/eagifdjnmojgkimjjehadlbjegkebgfn",
+    "website": "aicareerpartners.com",
+    "extensionId": "eagifdjnmojgkimjjehadlbjegkebgfn"
   },
   {
     "name": "AiChatHub-多AI对话助手",
@@ -3348,6 +3378,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/allyos/ffifnemcfchmbbgbacmichbgfnaifffo",
     "website": "",
     "extensionId": "ffifnemcfchmbbgbacmichbgfnaifffo"
+  },
+  {
+    "name": "aloha",
+    "category": "Workflow & Planning",
+    "description": "Automate your sales acquisition",
+    "country": "FR",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/hafpoogkomlacpbddefdgbcppkgmgiha",
+    "website": "",
+    "extensionId": "hafpoogkomlacpbddefdgbcppkgmgiha"
   },
   {
     "name": "AlphaToData",
@@ -6130,6 +6170,26 @@
     "extensionId": "ajehfdojkciheocnmhkbelgefjpepkde"
   },
   {
+    "name": "Benevolent Blocker",
+    "category": "Workflow & Planning",
+    "description": "Block distractions with customizable presets, point-and-click element hiding, and password-protected willpower locks.",
+    "country": "US",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/bmbohobhdbhinhahkgkmghapphgjnflo",
+    "website": "",
+    "extensionId": "bmbohobhdbhinhahkgkmghapphgjnflo"
+  },
+  {
+    "name": "beokggobfdlimlihpkfmfpaedkhjpbhh",
+    "category": "",
+    "description": "Removed from Chrome Web Store",
+    "country": "",
+    "lastUpdate": "",
+    "storeUrl": "https://chromewebstore.google.com/detail/beokggobfdlimlihpkfmfpaedkhjpbhh",
+    "website": "",
+    "extensionId": "beokggobfdlimlihpkfmfpaedkhjpbhh"
+  },
+  {
     "name": "BeReach",
     "category": "Tools",
     "description": "Search LinkedIn posts, capture engagement signals, and turn lead research into clearer outreach workflows connected to n8n.",
@@ -7300,6 +7360,16 @@
     "extensionId": "hiopinfkbgllbpijgaofigofikdmlbgj"
   },
   {
+    "name": "Brand Authority Builders",
+    "category": "Tools",
+    "description": "LinkedIn profile enrichment extension",
+    "country": "IN",
+    "lastUpdate": "2026-02-19",
+    "storeUrl": "https://chromewebstore.google.com/detail/doocgmhlgnbohigglccfoopdmggdlfig",
+    "website": "",
+    "extensionId": "doocgmhlgnbohigglccfoopdmggdlfig"
+  },
+  {
     "name": "Brand Connect",
     "category": "Social Networking",
     "description": "Brand connect extension to connect your profiles easily",
@@ -7338,6 +7408,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/brandengineai/ehghldfhokocddhldnionfhmegfljlcm",
     "website": "https://brandengine.ai",
     "extensionId": "ehghldfhokocddhldnionfhmegfljlcm"
+  },
+  {
+    "name": "BrandJet Lead Capture",
+    "category": "Tools",
+    "description": "manifest.json description",
+    "country": "",
+    "lastUpdate": "2026-02-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/jjiepcocplehnngdgodieheighgemfmj",
+    "website": "brandjet.ai",
+    "extensionId": "jjiepcocplehnngdgodieheighgemfmj"
   },
   {
     "name": "Brandled",
@@ -7438,6 +7518,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/breeze-apply/camfoicleaapcefbjgbacclccgifdfcj",
     "website": "https://breezeapply.com",
     "extensionId": "camfoicleaapcefbjgbacclccgifdfcj"
+  },
+  {
+    "name": "bref. – LinkedIn Post Summarizer",
+    "category": "Tools",
+    "description": "Summarize any LinkedIn post in one click",
+    "country": "FR",
+    "lastUpdate": "2026-03-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/cjhfnmocgjgkacigldocdfihkecblbdl",
+    "website": "",
+    "extensionId": "cjhfnmocgjgkacigldocdfihkecblbdl"
   },
   {
     "name": "Breikin Coaching",
@@ -8408,6 +8498,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/captionsense-ai-social-me/papahifmfpoplhfdebicmmeknbdbjpgm",
     "website": "https://captionsense.app",
     "extensionId": "papahifmfpoplhfdebicmmeknbdbjpgm"
+  },
+  {
+    "name": "Captist - Screen Recorder & Auto Zoom",
+    "category": "Communication",
+    "description": "Captist — Create beautiful screen recordings with automatic zooms and professional mockups",
+    "country": "",
+    "lastUpdate": "2026-02-16",
+    "storeUrl": "https://chromewebstore.google.com/detail/hpcdodohepbcmdiphmiedbolbcfijgpp",
+    "website": "captist.com",
+    "extensionId": "hpcdodohepbcmdiphmiedbolbcfijgpp"
   },
   {
     "name": "Capture by Tracker",
@@ -11060,6 +11160,16 @@
     "extensionId": "pcbfaehbjkpohdfbbbenegjpbimiljcj"
   },
   {
+    "name": "CommentWala by Odizo",
+    "category": "Communication",
+    "description": "Assists with generating professional LinkedIn comments.",
+    "country": "IN",
+    "lastUpdate": "2026-02-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/nnhopncjekdcgikmmoicnkdbkafnenik",
+    "website": "",
+    "extensionId": "nnhopncjekdcgikmmoicnkdbkafnenik"
+  },
+  {
     "name": "CommentWow | LinkedIn AI Commenter & Poster",
     "category": "",
     "description": "Scrape LinkedIn posts, generate smart comments, and draft new posts from a side panel.",
@@ -11078,6 +11188,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/commit/pjadfaekmomgfdaggmeannmdbjeoepob",
     "website": "",
     "extensionId": "pjadfaekmomgfdaggmeannmdbjeoepob"
+  },
+  {
+    "name": "Commit Lock",
+    "category": "Developer Tools",
+    "description": "Blocks distracting sites until you commit today.",
+    "country": "",
+    "lastUpdate": "2026-02-07",
+    "storeUrl": "https://chromewebstore.google.com/detail/bpmolnbejdfclocenjpidoacjejfeanb",
+    "website": "",
+    "extensionId": "bpmolnbejdfclocenjpidoacjejfeanb"
   },
   {
     "name": "Common Resolve",
@@ -11258,6 +11378,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/conectio/gfacbcmefenjecbijoaknbcenkpmmhjc",
     "website": "https://conectio.io",
     "extensionId": "gfacbcmefenjecbijoaknbcenkpmmhjc"
+  },
+  {
+    "name": "Confe Replier – Most Advanced AI Reply Tool",
+    "category": "Tools",
+    "description": "Best and Free AI-powered social media replier for X, Facebook, Reddit, and LinkedIn.",
+    "country": "",
+    "lastUpdate": "2026-03-09",
+    "storeUrl": "https://chromewebstore.google.com/detail/jagjnfijaboolanhlhjbofnggfakojhc",
+    "website": "confe.io",
+    "extensionId": "jagjnfijaboolanhlhjbofnggfakojhc"
   },
   {
     "name": "Connaissance.pro",
@@ -11568,6 +11698,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/contactful-linkedin-conta/mjjbhpigcegfjaocdgnljlihkfkbnokj",
     "website": "https://contactful.app/",
     "extensionId": "mjjbhpigcegfjaocdgnljlihkfkbnokj"
+  },
+  {
+    "name": "Content Filter Pro",
+    "category": "Well-being",
+    "description": "Extensible content filtering for LinkedIn, Facebook, Reddit, and more.",
+    "country": "",
+    "lastUpdate": "2026-02-21",
+    "storeUrl": "https://chromewebstore.google.com/detail/achpeojkcegknojbcoiblgikjiglccmm",
+    "website": "",
+    "extensionId": "achpeojkcegknojbcoiblgikjiglccmm"
   },
   {
     "name": "Content Ninja Suggest",
@@ -13260,6 +13400,16 @@
     "extensionId": "dgnaioeehmhgpbekbgicnpjmiphhjfea"
   },
   {
+    "name": "dassi: AI Browser Agent for Claude, GPT & Gemini",
+    "category": "Workflow & Planning",
+    "description": "AI browser agent that automates work. Connect Claude, GPT, Gemini, and more. Privacy-first.",
+    "country": "",
+    "lastUpdate": "2026-03-09",
+    "storeUrl": "https://chromewebstore.google.com/detail/bjcngahpcjeililljmfegmlanlpgibdi",
+    "website": "dassi.ai",
+    "extensionId": "bjcngahpcjeililljmfegmlanlpgibdi"
+  },
+  {
     "name": "Data Surfer",
     "category": "Tools",
     "description": "Prioritized lead engagement recommendations for LinkedIn",
@@ -14760,6 +14910,16 @@
     "extensionId": "kffkffdmgemiabignogacgnchalgdopo"
   },
   {
+    "name": "Draft By Syphon Labs",
+    "category": "Tools",
+    "description": "Save the jobs that you find online so that you can Draft your documents later.",
+    "country": "IN",
+    "lastUpdate": "2026-02-16",
+    "storeUrl": "https://chromewebstore.google.com/detail/kjefijghcaecgdkdjlkphfbclkcojpak",
+    "website": "syphonlabs.com",
+    "extensionId": "kjefijghcaecgdkdjlkphfbclkcojpak"
+  },
+  {
     "name": "DraftAI: LinkedIn Message Assistant",
     "category": "Workflow & Planning",
     "description": "Craft professional LinkedIn messages with AI. Get smart suggestions and improve your networking communication instantly",
@@ -14768,6 +14928,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/draftai-linkedin-message/mjdlnlnafhiipchihjklhoahnkjpjmac",
     "website": "",
     "extensionId": "mjdlnlnafhiipchihjklhoahnkjpjmac"
+  },
+  {
+    "name": "DraftApply",
+    "category": "Tools",
+    "description": "Generate authentic job application answers using your CV",
+    "country": "",
+    "lastUpdate": "2026-02-11",
+    "storeUrl": "https://chromewebstore.google.com/detail/ndbaajjmijalepfpalegchmcbbhaddli",
+    "website": "",
+    "extensionId": "ndbaajjmijalepfpalegchmcbbhaddli"
   },
   {
     "name": "Draftly for LinkedIn",
@@ -17710,6 +17880,16 @@
     "extensionId": "fgkekpliiklpbfaiafljpddehcjocoba"
   },
   {
+    "name": "fibdbjcgmdhjiaddkdhhakjpingbmakh",
+    "category": "",
+    "description": "Removed from Chrome Web Store",
+    "country": "",
+    "lastUpdate": "",
+    "storeUrl": "https://chromewebstore.google.com/detail/fibdbjcgmdhjiaddkdhhakjpingbmakh",
+    "website": "",
+    "extensionId": "fibdbjcgmdhjiaddkdhhakjpingbmakh"
+  },
+  {
     "name": "Fide Talent Agent",
     "category": "Tools",
     "description": "3 ultra-tailored job recommendations, delivered daily",
@@ -18168,6 +18348,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/fitedit-training-data-man/bfhphpljoncaiamnglpmlcaopgpclmal",
     "website": "",
     "extensionId": "bfhphpljoncaiamnglpmlcaopgpclmal"
+  },
+  {
+    "name": "Fitly Autofill Assistant",
+    "category": "Tools",
+    "description": "Automatically fill job application forms with your profile data",
+    "country": "",
+    "lastUpdate": "2026-02-28",
+    "storeUrl": "https://chromewebstore.google.com/detail/efmjdclkpnmplbecjfcaffpljamekmjg",
+    "website": "",
+    "extensionId": "efmjdclkpnmplbecjfcaffpljamekmjg"
   },
   {
     "name": "FIVE-O Web Protection",
@@ -18908,6 +19098,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/fooji-crowdsail-—-gift-yo/jmjnbhmhpkcdgakimkgjddepbmcipdee",
     "website": "https://fooji.com",
     "extensionId": "jmjnbhmhpkcdgakimkgjddepbmcipdee"
+  },
+  {
+    "name": "Foot in the Door - Job Offer Saver",
+    "category": "Workflow & Planning",
+    "description": "Capture and save job offers from LinkedIn, Indeed, and JobUp directly to your Foot in the Door application",
+    "country": "",
+    "lastUpdate": "2026-02-19",
+    "storeUrl": "https://chromewebstore.google.com/detail/gofnijdkgbclkdmhnmdgigmipplflofi",
+    "website": "",
+    "extensionId": "gofnijdkgbclkdmhnmdgigmipplflofi"
   },
   {
     "name": "Forager Chrome Extension",
@@ -21350,6 +21550,16 @@
     "extensionId": "limiipimgpcajfdmcdkkgolmgdelpaip"
   },
   {
+    "name": "hbjjobjmjppcaphkmnlgnogallpejgon",
+    "category": "",
+    "description": "Removed from Chrome Web Store",
+    "country": "",
+    "lastUpdate": "",
+    "storeUrl": "https://chromewebstore.google.com/detail/hbjjobjmjppcaphkmnlgnogallpejgon",
+    "website": "",
+    "extensionId": "hbjjobjmjppcaphkmnlgnogallpejgon"
+  },
+  {
     "name": "HC History URLs",
     "category": "Workflow & Planning",
     "description": "Check your history, it will show the top ten results, and you go to any page by click the URL.",
@@ -21540,6 +21750,16 @@
     "extensionId": "ococpbbplfckfhdpmjeonabajmcciafl"
   },
   {
+    "name": "HermanApp",
+    "category": "Workflow & Planning",
+    "description": "Agentic AI Prospecting App & Chatbot for Recruiting & Sales",
+    "country": "US",
+    "lastUpdate": "2026-02-13",
+    "storeUrl": "https://chromewebstore.google.com/detail/cbnoelajgdeagcalafaknmgjcjhcnhcd",
+    "website": "",
+    "extensionId": "cbnoelajgdeagcalafaknmgjcjhcnhcd"
+  },
+  {
     "name": "Hermes Warm Intros Extension",
     "category": "Tools",
     "description": "An extension to streamline warm intros from the Hermes app",
@@ -21658,6 +21878,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/hhlhmbmlempfdgijjkodlmnghefamnod",
     "website": "",
     "extensionId": "hhlhmbmlempfdgijjkodlmnghefamnod"
+  },
+  {
+    "name": "Hi Energy AI",
+    "category": "Tools",
+    "description": "Find affiliate programs while browsing",
+    "country": "",
+    "lastUpdate": "2026-03-03",
+    "storeUrl": "https://chromewebstore.google.com/detail/ckilomnbielchallccjmgomchhkjccdf",
+    "website": "",
+    "extensionId": "ckilomnbielchallccjmgomchhkjccdf"
   },
   {
     "name": "Hi-hey",
@@ -22120,6 +22350,16 @@
     "extensionId": "bedpengamiohcefjdlibgjgddfldlipf"
   },
   {
+    "name": "HireJourney Sidekick",
+    "category": "Workflow & Planning",
+    "description": "Your AI job search companion - track applications, optimize resumes, and generate cover letters right where you browse jobs.",
+    "country": "NG",
+    "lastUpdate": "2026-02-25",
+    "storeUrl": "https://chromewebstore.google.com/detail/bpekghkohkokikenmonimafbjopomebn",
+    "website": "hirejourney.xyz",
+    "extensionId": "bpekghkohkokikenmonimafbjopomebn"
+  },
+  {
     "name": "HireLift",
     "category": "Tools",
     "description": "Lifting your Hiring Efficiency heading",
@@ -22248,6 +22488,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/hiresynapse/hnahfdbocenekpfkmcgekjkoapmcdekn",
     "website": "",
     "extensionId": "hnahfdbocenekpfkmcgekjkoapmcdekn"
+  },
+  {
+    "name": "Hirewall: AI Scam & Phishing Protection for Every Screen",
+    "category": "Privacy & Security",
+    "description": "AI-powered scam detection for Gmail, Outlook, LinkedIn, and every webpage. Detects phishing, deepfakes, and AI-generated content.",
+    "country": "US",
+    "lastUpdate": "2026-03-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/oaomdgkkllmhepgpkfmbcfpbdocokfel",
+    "website": "hirewall.app",
+    "extensionId": "oaomdgkkllmhepgpkfmbcfpbdocokfel"
   },
   {
     "name": "Hiring Cycle",
@@ -23650,6 +23900,16 @@
     "extensionId": "hcghganppfkplebfebpdnnihcjmjefep"
   },
   {
+    "name": "InGage — One-Click AI LinkedIn Outreach",
+    "category": "Social Networking",
+    "description": "One-click AI-powered LinkedIn outreach. Run comments, connection requests, and messages directly on LinkedIn pages you open.",
+    "country": "",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/nkaegpeiilppheefgalffciemnamogla",
+    "website": "https://signimus.com/",
+    "extensionId": "nkaegpeiilppheefgalffciemnamogla"
+  },
+  {
     "name": "InkedIn - Free AI Comment Suggestions for LinkedIn",
     "category": "Tools",
     "description": "AI-powered comment suggestions for LinkedIn posts",
@@ -24708,6 +24968,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/ogfcdcjopjfnoplogmkjcfbokanhocjp",
     "website": "",
     "extensionId": "ogfcdcjopjfnoplogmkjcfbokanhocjp"
+  },
+  {
+    "name": "jdchichmbffdjfdfpfigoliaegjmhmlo",
+    "category": "",
+    "description": "Removed from Chrome Web Store",
+    "country": "",
+    "lastUpdate": "",
+    "storeUrl": "https://chromewebstore.google.com/detail/jdchichmbffdjfdfpfigoliaegjmhmlo",
+    "website": "",
+    "extensionId": "jdchichmbffdjfdfpfigoliaegjmhmlo"
   },
   {
     "name": "jdljloonnicomdafhnljcjblkghndpcp",
@@ -26920,6 +27190,16 @@
     "extensionId": "concikajgcegecolfppmbmmbdaddaddi"
   },
   {
+    "name": "Kairos Job Application Browser Extension for Chrome",
+    "category": "Tools",
+    "description": "AI-powered job analysis extension for the Kairos career platform",
+    "country": "",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/colcihdaklmclebfngelcpokpopbhpfp",
+    "website": "cognixisai.com",
+    "extensionId": "colcihdaklmclebfngelcpokpopbhpfp"
+  },
+  {
     "name": "Kakoo HR",
     "category": "",
     "description": "Effortlessly source candidates and clients from any platform with Kakoo Easy Sourcing, a powerful extension for efficient…",
@@ -27240,6 +27520,16 @@
     "extensionId": "eninmbcjhjmnhpaklapabcjggciljkkl"
   },
   {
+    "name": "kimbocorp advisor",
+    "category": "Tools",
+    "description": "Close more deals with real-time kimbocorp advisor.",
+    "country": "",
+    "lastUpdate": "2026-02-26",
+    "storeUrl": "https://chromewebstore.google.com/detail/jdfjldlajcfjkegobmgcfkfdpjndnahj",
+    "website": "",
+    "extensionId": "jdfjldlajcfjkegobmgcfkfdpjndnahj"
+  },
+  {
     "name": "Kindly Corp",
     "category": "Well-being",
     "description": "A Chrome extension designed to promote kindness in the workplace.",
@@ -27268,6 +27558,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/kini-talent-sourcing-assi/njookoaeadadlmpnapephapecapiklpb",
     "website": "https://getkini.com",
     "extensionId": "njookoaeadadlmpnapephapecapiklpb"
+  },
+  {
+    "name": "KironX",
+    "category": "Communication",
+    "description": "Smart Feed Filter for X / LinkedIn. Focus on what matters.",
+    "country": "FR",
+    "lastUpdate": "2026-02-08",
+    "storeUrl": "https://chromewebstore.google.com/detail/iighilamljdlogkncpanefijgbhnbdaf",
+    "website": "kironx.com",
+    "extensionId": "iighilamljdlogkncpanefijgbhnbdaf"
   },
   {
     "name": "Kitt AI",
@@ -28980,6 +29280,16 @@
     "extensionId": "encdnggcljehecoihhkmcpogdhhllkjg"
   },
   {
+    "name": "Leonar CRM",
+    "category": "Tools",
+    "description": "Import LinkedIn profiles and manage contacts directly from your browser",
+    "country": "FR",
+    "lastUpdate": "2026-03-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/ebaocbhmmfgmegpjddobpplcaepgfipk",
+    "website": "",
+    "extensionId": "ebaocbhmmfgmegpjddobpplcaepgfipk"
+  },
+  {
     "name": "Leopard Job Tracker",
     "category": "Tools",
     "description": "Track job applications across multiple platforms",
@@ -29158,6 +29468,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/li-list-builder/kemhkpjhgodfakhfaikpomnlggcpmgam",
     "website": "",
     "extensionId": "kemhkpjhgodfakhfaikpomnlggcpmgam"
+  },
+  {
+    "name": "LICON - LinkedIn Connector Toolkit",
+    "category": "Tools",
+    "description": "Automate LinkedIn connection requests from company pages and search results - grow your network effortlessly",
+    "country": "",
+    "lastUpdate": "2026-02-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/kgjdogbeahmdgdkddigjfofmdnkpcade",
+    "website": "https://atrey.dev/",
+    "extensionId": "kgjdogbeahmdgdkddigjfofmdnkpcade"
   },
   {
     "name": "Liftedin",
@@ -30760,6 +31080,16 @@
     "extensionId": "mgmmoiaocohooanmjmngocnojbphagoi"
   },
   {
+    "name": "LinkedIn CoPilot",
+    "category": "Communication",
+    "description": "AI-powered personalized LinkedIn message generator",
+    "country": "",
+    "lastUpdate": "2026-02-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/mhihaapaebalnoagmnidpbaegdkoollf",
+    "website": "",
+    "extensionId": "mhihaapaebalnoagmnidpbaegdkoollf"
+  },
+  {
     "name": "LinkedIn Cover Letter",
     "category": "Workflow & Planning",
     "description": "LinkedIn Cover Letter - Free AI cover letter generator for LinkedIn.",
@@ -30970,6 +31300,16 @@
     "extensionId": "aghikalamngfkggdmnceiddepfoogdhp"
   },
   {
+    "name": "Linkedin Europe Job AI Radar",
+    "category": "Tools",
+    "description": "AI-powered LinkedIn jobs radar for Europe: language filters, KM highlight, recruiter tags, competition scores, AI evaluation.",
+    "country": "",
+    "lastUpdate": "2026-03-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/njnhecefebbkdhffakehinmnnicpnefo",
+    "website": "",
+    "extensionId": "njnhecefebbkdhffakehinmnnicpnefo"
+  },
+  {
     "name": "LinkedIn Event Inviter",
     "category": "Social Networking",
     "description": "Automate LinkedIn event interactions",
@@ -31128,6 +31468,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/linkedin-feed-remover/ikglniecnnonmchfigbgjopdmallbbhj",
     "website": "",
     "extensionId": "ikglniecnnonmchfigbgjopdmallbbhj"
+  },
+  {
+    "name": "LinkedIn Feed Search by SOLED",
+    "category": "Tools",
+    "description": "Search LinkedIn feed - Updated for Feb 2026 - Free: 100 posts/day, 30 days",
+    "country": "",
+    "lastUpdate": "2026-03-06",
+    "storeUrl": "https://chromewebstore.google.com/detail/acdgkiapikhobpffkkkhohhkcmmkomif",
+    "website": "",
+    "extensionId": "acdgkiapikhobpffkkkhohhkcmmkomif"
   },
   {
     "name": "LinkedIn Filter+",
@@ -31610,6 +31960,16 @@
     "extensionId": "pbbodcahjmglfoooblgbggbdjngphelh"
   },
   {
+    "name": "LinkedIn Jobs Blocker",
+    "category": "Social Networking",
+    "description": "Easily hide job listings on LinkedIn based on companies or status.",
+    "country": "",
+    "lastUpdate": "2026-02-03",
+    "storeUrl": "https://chromewebstore.google.com/detail/dgmclfgajjhlghegcieolpnnkjnnblmm",
+    "website": "toadstonelabs.com",
+    "extensionId": "dgmclfgajjhlghegcieolpnnkjnnblmm"
+  },
+  {
     "name": "LinkedIn Jobs Comments",
     "category": "Developer Tools",
     "description": "Comment anonymously on LinkedIn job posts.",
@@ -31688,6 +32048,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/linkedin-lead-exporter-pr/igplagfdlkejimfjjbndpdeibdbhldcm",
     "website": "",
     "extensionId": "igplagfdlkejimfjjbndpdeibdbhldcm"
+  },
+  {
+    "name": "LinkedIn Lead Extractor - Extraction de leads & messages IA personnalisés",
+    "category": "Social Networking",
+    "description": "Extrayez les profils LinkedIn depuis les commentaires de posts et générez des messages personnalisés avec l'IA en 1 clic.",
+    "country": "FR",
+    "lastUpdate": "2026-02-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/leinemjcdkilppkebnnbiaembokmkhkh",
+    "website": "",
+    "extensionId": "leinemjcdkilppkebnnbiaembokmkhkh"
   },
   {
     "name": "LinkedIn Lead Generator – Sales, Recruiting, Job Seeker",
@@ -33590,6 +33960,16 @@
     "extensionId": "maanaljajdhhnllllmhmiiboodmoffon"
   },
   {
+    "name": "Linkomment",
+    "category": "Tools",
+    "description": "Generate AI-powered comments directly on LinkedIn posts.",
+    "country": "",
+    "lastUpdate": "2026-02-17",
+    "storeUrl": "https://chromewebstore.google.com/detail/cbmdmomdnmoofpdabjofdfmefjllmbjc",
+    "website": "linkomment.com",
+    "extensionId": "cbmdmomdnmoofpdabjofdfmefjllmbjc"
+  },
+  {
     "name": "LinkPilot AI",
     "category": "Social Networking",
     "description": "AI-powered comment generator for LinkedIn posts with friendly and formal tone options",
@@ -33908,6 +34288,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/listalpha/mhjgihnfhbkiplcbnoldjmjnfdemeaig",
     "website": "https://listalpha.com/",
     "extensionId": "mhjgihnfhbkiplcbnoldjmjnfdemeaig"
+  },
+  {
+    "name": "Listar",
+    "category": "Tools",
+    "description": "Find emails and phone numbers for any LinkedIn or Facebook profile, instantly.",
+    "country": "",
+    "lastUpdate": "2026-03-06",
+    "storeUrl": "https://chromewebstore.google.com/detail/dcbagpiaoiknpobeodocgdapgmdadkbp",
+    "website": "listar.fr",
+    "extensionId": "dcbagpiaoiknpobeodocgdapgmdadkbp"
   },
   {
     "name": "ListManager Copilot",
@@ -35090,6 +35480,16 @@
     "extensionId": "dgllhmcgnfaiemgnjmbdgfeapohjnkop"
   },
   {
+    "name": "Mavin LinkedIn Account Connector",
+    "category": "Workflow & Planning",
+    "description": "Securely connect your LinkedIn account",
+    "country": "US",
+    "lastUpdate": "2026-02-20",
+    "storeUrl": "https://chromewebstore.google.com/detail/malccngbniidpileipcdoojlilkoopel",
+    "website": "mavinmakes.com",
+    "extensionId": "malccngbniidpileipcdoojlilkoopel"
+  },
+  {
     "name": "MavSocial",
     "category": "",
     "description": "MavSocial is the best way to share great content from any website to all of your social networks with just one click.",
@@ -35698,6 +36098,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/mindfocus-ai/hmpahjobdfkoamajebfagffipekedkmk",
     "website": "",
     "extensionId": "hmpahjobdfkoamajebfagffipekedkmk"
+  },
+  {
+    "name": "Mindful Scroll",
+    "category": "Well-being",
+    "description": "Regulate your nervous system with a breathing exercise before scrolling social media.",
+    "country": "",
+    "lastUpdate": "2026-02-06",
+    "storeUrl": "https://chromewebstore.google.com/detail/eefcfppmhallgheehmabcaccfgcmjmpj",
+    "website": "",
+    "extensionId": "eefcfppmhallgheehmabcaccfgcmjmpj"
   },
   {
     "name": "Mindmatrix",
@@ -38480,6 +38890,16 @@
     "extensionId": "mknnokdoimnnbiojigiifegoagcchipd"
   },
   {
+    "name": "OpalDraft AI Writing Assistant: Grammar Checker, Translator & Paraphraser",
+    "category": "Communication",
+    "description": "AI writing assistant in every text box. Write better with instant grammar fixes, tone changes & smart suggestions.",
+    "country": "",
+    "lastUpdate": "2026-02-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/iolkbnnjdhaogpoodilohcebcpghabmh",
+    "website": "opaldraft.com",
+    "extensionId": "iolkbnnjdhaogpoodilohcebcpghabmh"
+  },
+  {
     "name": "Open AI ChatGPT for Email - GMPlus",
     "category": "Tools",
     "description": "Display ChatGPT response as a suggestion to complete emails, Powered By OpenAI",
@@ -38738,6 +39158,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/oracle-eloqua-sales-tools/jngjmljecflgeoiagcladdhcpalcdfpm",
     "website": "",
     "extensionId": "jngjmljecflgeoiagcladdhcpalcdfpm"
+  },
+  {
+    "name": "Orbb Relationship Copilot",
+    "category": "Tools",
+    "description": "This Relationship Copilot provides enriched company data directly on LinkedIn / Hubspot / Salesforce / Gmail & Google Calendar.",
+    "country": "IL",
+    "lastUpdate": "2026-02-12",
+    "storeUrl": "https://chromewebstore.google.com/detail/hbnkfgcfhhajheoegnkdifmfdpkgdhlf",
+    "website": "orbb.com",
+    "extensionId": "hbnkfgcfhhajheoegnkdifmfdpkgdhlf"
   },
   {
     "name": "OrbitShift",
@@ -41260,6 +41690,16 @@
     "extensionId": "bghdafhamnmaiklmgdinkiipaofdnleb"
   },
   {
+    "name": "PostZaper - Bookmark Manager for Twitter, LinkedIn & Articles",
+    "category": "Developer Tools",
+    "description": "Save bookmarks from Twitter/X, LinkedIn & articles. AI-powered content generation. One-click manager for creators.",
+    "country": "",
+    "lastUpdate": "2026-02-12",
+    "storeUrl": "https://chromewebstore.google.com/detail/ecfbdcdbijkebgkjjdolbnapnkdpfoid",
+    "website": "",
+    "extensionId": "ecfbdcdbijkebgkjjdolbnapnkdpfoid"
+  },
+  {
     "name": "Potion Screen Recorder - Easily Create Personalized AI Videos",
     "category": "",
     "description": "Convert screen recordings into personalized AI videos. Create realistic personalized AI videos. Clone your face, voice & gestures.",
@@ -42680,6 +43120,16 @@
     "extensionId": "fnihocneppnmobbeohjdempjefiogjba"
   },
   {
+    "name": "QuantumOutbound - Automation Tool for LinkedIn",
+    "category": "Workflow & Planning",
+    "description": "Connect your LinkedIn account easily on QuantumOutbound.",
+    "country": "US",
+    "lastUpdate": "2026-02-18",
+    "storeUrl": "https://chromewebstore.google.com/detail/bjofcmgkalohhljmbepjflpcljggnncp",
+    "website": "",
+    "extensionId": "bjofcmgkalohhljmbepjflpcljggnncp"
+  },
+  {
     "name": "Qudaotong",
     "category": "Workflow & Planning",
     "description": "Quick Import to ATS",
@@ -43990,6 +44440,16 @@
     "extensionId": "oomalehpnncbpaehdmiminkckiibcdpn"
   },
   {
+    "name": "RecruitCraftsLink",
+    "category": "Tools",
+    "description": "Smart LinkedIn and GitHub Candidate Sourcing Tool",
+    "country": "TR",
+    "lastUpdate": "2026-02-21",
+    "storeUrl": "https://chromewebstore.google.com/detail/nbgoojbfifnanleibhglideddlnkpjdf",
+    "website": "",
+    "extensionId": "nbgoojbfifnanleibhglideddlnkpjdf"
+  },
+  {
     "name": "Recruitee Talent Sourcing",
     "category": "Workflow & Planning",
     "description": "Easily source candidates and import data from various networks",
@@ -44018,6 +44478,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/recruiter-booster/fnljdefckdcbajlfkdlacckibdgfbaof",
     "website": "https://recruiterbooster.io",
     "extensionId": "fnljdefckdcbajlfkdlacckibdgfbaof"
+  },
+  {
+    "name": "Recruiter Copilot - AI Candidate Screening for LinkedIn",
+    "category": "Tools",
+    "description": "AI recruiting tool for LinkedIn. Upload your job description, browse candidate profiles, and instantly see match scores. Free to use",
+    "country": "IN",
+    "lastUpdate": "2026-03-03",
+    "storeUrl": "https://chromewebstore.google.com/detail/lfbphlbnagoifnfgebimdghaibpnlpgm",
+    "website": "recruitaisuite.com",
+    "extensionId": "lfbphlbnagoifnfgebimdghaibpnlpgm"
   },
   {
     "name": "Recruiter OutreachPro",
@@ -44628,6 +45098,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/remove-distraction-stay-f/ingaodakghmeckhjeaddjihmjlpmhigi",
     "website": "",
     "extensionId": "ingaodakghmeckhjeaddjihmjlpmhigi"
+  },
+  {
+    "name": "Remove LinkedIn Invitations by Meet Lea",
+    "category": "Communication",
+    "description": "This extension lets you remove your old sent invitations on LinkedIn",
+    "country": "FR",
+    "lastUpdate": "2026-02-06",
+    "storeUrl": "https://chromewebstore.google.com/detail/eccealpbefpjlnbajbemmglidnghpfnc",
+    "website": "meet-lea.com",
+    "extensionId": "eccealpbefpjlnbajbemmglidnghpfnc"
   },
   {
     "name": "Rental360 Traffic Fine Information",
@@ -45470,6 +45950,16 @@
     "extensionId": "eecahjoflaihdfdncmhelcapeelidecn"
   },
   {
+    "name": "ResuFluent AI",
+    "category": "Workflow & Planning",
+    "description": "AI-powered job application assistant that analyzes job postings and tailors your resume to match requirements on job websites",
+    "country": "",
+    "lastUpdate": "2026-03-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/odfdpoodhihabkbmiiejcaegjklcpail",
+    "website": "resufluent.com",
+    "extensionId": "odfdpoodhihabkbmiiejcaegjklcpail"
+  },
+  {
     "name": "Resum.io",
     "category": "Tools",
     "description": "Feel good with every job application",
@@ -45678,6 +46168,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/resumehub-ai-–-smart-resu/fdnmioajkghmdabdaheehoojnfchabpf",
     "website": "",
     "extensionId": "fdnmioajkghmdabdaheehoojnfchabpf"
+  },
+  {
+    "name": "ResumeMate Job Tracker",
+    "category": "Workflow & Planning",
+    "description": "Streamline your job search—capture, track, and manage applications from 11+ platforms with intelligent automation.",
+    "country": "IN",
+    "lastUpdate": "2026-02-11",
+    "storeUrl": "https://chromewebstore.google.com/detail/ccjoemjdjbdjpbgpoceddhfmbllonbgi",
+    "website": "resumemate.io",
+    "extensionId": "ccjoemjdjbdjpbgpoceddhfmbllonbgi"
   },
   {
     "name": "ResumeMelon - Apply Smarter | Resume Match, ATS Score & Skill Gaps",
@@ -46250,6 +46750,16 @@
     "extensionId": "acajjofblcpdnfgofcmhgnpcbfhmfldc"
   },
   {
+    "name": "RolePilot — Job Application Assistant",
+    "category": "Workflow & Planning",
+    "description": "AI-powered job application toolkit — ATS resume check, red flag detection, cover letter generator. Works on 25+ job sites.",
+    "country": "",
+    "lastUpdate": "2026-02-24",
+    "storeUrl": "https://chromewebstore.google.com/detail/kklfkncpfhmnhofioaofhgdjpfncdfag",
+    "website": "",
+    "extensionId": "kklfkncpfhmnhofioaofhgdjpfncdfag"
+  },
+  {
     "name": "RoleVision",
     "category": "Workflow & Planning",
     "description": "AI job-search copilot for LinkedIn: hide noise, score fit, analyze vs resume",
@@ -46670,6 +47180,16 @@
     "extensionId": "hpemjeicfeimkpjnbldmenlcepjjibod"
   },
   {
+    "name": "Sales Connector",
+    "category": "Tools",
+    "description": "LinkedIn profile Scraper and cold email sender with with 97% of accuracy.",
+    "country": "BD",
+    "lastUpdate": "2026-02-23",
+    "storeUrl": "https://chromewebstore.google.com/detail/jlnlgdbnpiopkgacngfebnkbmoimcffn",
+    "website": "salesconnector.pro",
+    "extensionId": "jlnlgdbnpiopkgacngfebnkbmoimcffn"
+  },
+  {
     "name": "Sales Copilot by CRM.io: Your All-in-One Sales Assistant",
     "category": "Workflow & Planning",
     "description": "Research & bulk import leads, find emails & phones, AI-powered lead matching scores, and automate outreach—all in one sales tool.",
@@ -46888,6 +47408,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/salesforce-logxplorer/bkkoahkbpolafmpmgbhedgkdocjgjcjb",
     "website": "",
     "extensionId": "bkkoahkbpolafmpmgbhedgkdocjgjcjb"
+  },
+  {
+    "name": "Salesforce Prism",
+    "category": "Developer Tools",
+    "description": "Advanced CRM productivity: Deep clone Salesforce records across orgs and integrate seamlessly with LinkedIn profiles.",
+    "country": "",
+    "lastUpdate": "2026-02-25",
+    "storeUrl": "https://chromewebstore.google.com/detail/aagiojdphcbpafnpcniokdjcpfdphjgk",
+    "website": "",
+    "extensionId": "aagiojdphcbpafnpcniokdjcpfdphjgk"
   },
   {
     "name": "Salesforge: Free B2B Email & Phone Number Finder",
@@ -47128,6 +47658,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/salesxporter/lpoeicnilddmbkbbfdjmldcgafnpgfhi",
     "website": "https://salesxporter.com",
     "extensionId": "lpoeicnilddmbkbbfdjmldcgafnpgfhi"
+  },
+  {
+    "name": "Sam Soft Privacy Shield",
+    "category": "Privacy & Security",
+    "description": "Complete privacy suite: Browser lock, tracker blocking, fingerprint protection, password vault & WebRTC leak prevention.",
+    "country": "US",
+    "lastUpdate": "2026-02-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/nhfcgjeakopinjdccphgbibikhkdelmj",
+    "website": "samsoftwarepoetry.blogspot.com",
+    "extensionId": "nhfcgjeakopinjdccphgbibikhkdelmj"
   },
   {
     "name": "SAM.Coach Meeting Recorder",
@@ -47728,6 +48268,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/bindfabgapagoeaolcbpocelliddgbca",
     "website": "https://screenapp.io/",
     "extensionId": "bindfabgapagoeaolcbpocelliddgbca"
+  },
+  {
+    "name": "Screenshot Editor for Social Media - LumaStack",
+    "category": "Communication",
+    "description": "Turn screenshots into viral posts instantly. Auto-beautify designs, generate catchy captions, and one-click publish.",
+    "country": "",
+    "lastUpdate": "2026-02-03",
+    "storeUrl": "https://chromewebstore.google.com/detail/cfolbbnldfcknkcopnjhankbcjenmeam",
+    "website": "lumastack.net",
+    "extensionId": "cfolbbnldfcknkcopnjhankbcjenmeam"
   },
   {
     "name": "Screenshot on mac",
@@ -48660,6 +49210,16 @@
     "extensionId": "lbalecfcboaceklandojdcbciadglpgn"
   },
   {
+    "name": "ShareCo SalesSync",
+    "category": "Workflow & Planning",
+    "description": "Save LinkedIn profiles to Salesforce with one click",
+    "country": "CA",
+    "lastUpdate": "2026-03-05",
+    "storeUrl": "https://chromewebstore.google.com/detail/hhhdfnkofahncppajahlemdjdfohhjho",
+    "website": "shareco.ca",
+    "extensionId": "hhhdfnkofahncppajahlemdjdfohhjho"
+  },
+  {
     "name": "Shared Email Templates & Signatures for Gmail",
     "category": "Communication",
     "description": "Boost Gmail: create, reuse, personalize templates & signatures with dynamic fields. Share with your team to stay on the same page!",
@@ -48858,6 +49418,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/showpad-for-gmail/dnlkpnnglcjooohhgpjhmbcfgahcjbap",
     "website": "",
     "extensionId": "dnlkpnnglcjooohhgpjhmbcfgahcjbap"
+  },
+  {
+    "name": "Shuttergen | Free Ads Inspiration Saver",
+    "category": "Workflow & Planning",
+    "description": "Save and track ads inspiration anyplace, anywhere.",
+    "country": "GB",
+    "lastUpdate": "2026-02-16",
+    "storeUrl": "https://chromewebstore.google.com/detail/hklcccmmnfchljgnmhkcofklabjdpdho",
+    "website": "shuttergen.com",
+    "extensionId": "hklcccmmnfchljgnmhkcofklabjdpdho"
   },
   {
     "name": "Siap Dips: Your Campus Companion",
@@ -50790,6 +51360,16 @@
     "extensionId": "cabldpgmkejdhjbgmeooocablkljdbcg"
   },
   {
+    "name": "Socials - Generate Posts in One Click",
+    "category": "Social Networking",
+    "description": "Create viral posts for X and LinkedIn instantly with AI. Match your unique voice with custom personas.",
+    "country": "",
+    "lastUpdate": "2026-03-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/pmpemhbbmaicdmnlmenopaclpdfnllje",
+    "website": "brainrotcreations.com",
+    "extensionId": "pmpemhbbmaicdmnlmenopaclpdfnllje"
+  },
+  {
     "name": "Socials & Entertainment Blocker",
     "category": "Workflow & Planning",
     "description": "Blocks distracting websites during user-defined focus periods",
@@ -51070,6 +51650,16 @@
     "extensionId": "dhkkipdcahoikdahaeidlafflbillaoh"
   },
   {
+    "name": "SourceLens - LinkedIn Bridge",
+    "category": "Tools",
+    "description": "Export LinkedIn Recruiter profielen direct naar SourceLens voor AI-analyse",
+    "country": "NL",
+    "lastUpdate": "2026-03-04",
+    "storeUrl": "https://chromewebstore.google.com/detail/dohemhnmhdddcgleofpobicdkoelkhoo",
+    "website": "sourcelens.ai",
+    "extensionId": "dohemhnmhdddcgleofpobicdkoelkhoo"
+  },
+  {
     "name": "Sourcer",
     "category": "Tools",
     "description": "AI-Powered sourcing & analytics",
@@ -51278,6 +51868,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/mhphjcbcohpjhnonkfeajnljcondbgbe",
     "website": "",
     "extensionId": "mhphjcbcohpjhnonkfeajnljcondbgbe"
+  },
+  {
+    "name": "Speech to Text & Voice Dictation with AI for Gmail and Web → WriteByVoice",
+    "category": "Communication",
+    "description": "Type 5x faster with AI speech to text & voice dictation on 20,000+ sites. 100% private: no data storage. Fast, accurate, and secure.",
+    "country": "",
+    "lastUpdate": "2026-02-14",
+    "storeUrl": "https://chromewebstore.google.com/detail/lpipiadmmhjigfnphnnpjcmflbbhgjeh",
+    "website": "writebyvoice.com",
+    "extensionId": "lpipiadmmhjigfnphnnpjcmflbbhgjeh"
   },
   {
     "name": "Speed Reply for LinkedIn",
@@ -51598,6 +52198,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/stacks-web-clipper-and-ai/nfjbjlpkfimhobegkcoekpkdlokjkcfj",
     "website": "https://betterstacks.com",
     "extensionId": "nfjbjlpkfimhobegkcoekpkdlokjkcfj"
+  },
+  {
+    "name": "Staffing Engine A.I. Assistant 2.0",
+    "category": "Workflow & Planning",
+    "description": "Pins staffingengine.ai in a right-side panel.",
+    "country": "US",
+    "lastUpdate": "2026-03-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/hdoojoboihhjgeafkonmhohfjdpnghpl",
+    "website": "",
+    "extensionId": "hdoojoboihhjgeafkonmhohfjdpnghpl"
   },
   {
     "name": "Staffing Engine AI Assistant",
@@ -52920,6 +53530,16 @@
     "extensionId": "kcpbgkdbinlmmoaiekoaejiafopldlmh"
   },
   {
+    "name": "Tab-it",
+    "category": "Workflow & Planning",
+    "description": "Organize 100+ tabs instantly. Smart grouping, Tab scrolling, crash recovery, and RAM saving. Stay focused and clutter-free.",
+    "country": "",
+    "lastUpdate": "2026-03-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/ibjlmaiklkfchnggbjlkhjaafchmfcnb",
+    "website": "",
+    "extensionId": "ibjlmaiklkfchnggbjlkhjaafchmfcnb"
+  },
+  {
     "name": "TabAny",
     "category": "Tools",
     "description": "Chat with AI in any text box on any webpage. Press Tab to start a conversation and let AI help you write better content.",
@@ -53758,6 +54378,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/target-grid-b2b-contact-f/hkndlpffepjhjlbfanhllmbpddljdgpk",
     "website": "https://targetgrid.ai",
     "extensionId": "hkndlpffepjhjlbfanhllmbpddljdgpk"
+  },
+  {
+    "name": "TargetIQ Lead Capture",
+    "category": "Tools",
+    "description": "Collect leads instantly from any website!",
+    "country": "",
+    "lastUpdate": "2026-03-08",
+    "storeUrl": "https://chromewebstore.google.com/detail/fodocgeennklmhfahnbbmhdfjmiiheie",
+    "website": "",
+    "extensionId": "fodocgeennklmhfahnbbmhdfjmiiheie"
   },
   {
     "name": "Tarss",
@@ -55400,6 +56030,16 @@
     "extensionId": "dnjmllkdcldkckglemabmmcihdnbdajk"
   },
   {
+    "name": "Track376",
+    "category": "Workflow & Planning",
+    "description": "Track Jobs with Friends - Share Opportunities, Chat & Succeed. Kanban boards, smart autofill, and real-time collaboration.",
+    "country": "",
+    "lastUpdate": "2026-02-10",
+    "storeUrl": "https://chromewebstore.google.com/detail/aklfdoponeficbkadhkkfolficoijhdo",
+    "website": "",
+    "extensionId": "aklfdoponeficbkadhkkfolficoijhdo"
+  },
+  {
     "name": "Tracker Blocker",
     "category": "Tools",
     "description": "Block tracking domains and cookie banners.",
@@ -55428,6 +56068,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/tracker-pro-mode/aokgkknapagmgagpkkehgagnmnddpgbc",
     "website": "",
     "extensionId": "aokgkknapagmgagpkkehgagnmnddpgbc"
+  },
+  {
+    "name": "TrackForcePro",
+    "category": "Developer Tools",
+    "description": "Salesforce toolkit: Audit extractor, SOQL/GraphQL builders, record scanner, org favicon manager, platform events & LMS.",
+    "country": "DK",
+    "lastUpdate": "2026-03-09",
+    "storeUrl": "https://chromewebstore.google.com/detail/eombeiphccjbnndbabnkimdlkpaooipk",
+    "website": "",
+    "extensionId": "eombeiphccjbnndbabnkimdlkpaooipk"
   },
   {
     "name": "Tracking Pixel Detector",
@@ -56368,6 +57018,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/ultimate-uk-visa-sponsor/nnflolggbaiokgdhfnlekkfaphooifcd",
     "website": "",
     "extensionId": "nnflolggbaiokgdhfnlekkfaphooifcd"
+  },
+  {
+    "name": "Ultimate Web Scraper",
+    "category": "Workflow & Planning",
+    "description": "Extract data instantly: Grab text, images, emails & links from any website with a single click. Fast, simple & powerful web scraper",
+    "country": "",
+    "lastUpdate": "2026-03-08",
+    "storeUrl": "https://chromewebstore.google.com/detail/pdeldjlcnhallaapdggcmhpailpnnkmg",
+    "website": "ultimatewebscraper.com",
+    "extensionId": "pdeldjlcnhallaapdggcmhpailpnnkmg"
   },
   {
     "name": "Ultimatesourcer-BySS",
@@ -58020,6 +58680,16 @@
     "extensionId": "hniliminddkboapeeogjbggeejepfmja"
   },
   {
+    "name": "VozPrime Meeting Assistant",
+    "category": "Tools",
+    "description": "Transforme suas reuniões em documentos estruturados com IA Enterprise.",
+    "country": "",
+    "lastUpdate": "2026-02-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/nbnefapenilhdolcjikeofdndgmggpbp",
+    "website": "",
+    "extensionId": "nbnefapenilhdolcjikeofdndgmggpbp"
+  },
+  {
     "name": "VPN Cloud",
     "category": "",
     "description": "VPN Cloud Белый список IP самый чистый и быстрый интернет в мире!",
@@ -59160,6 +59830,16 @@
     "extensionId": "pjmlkdacmaejhkdcflncbpcpidkggoio"
   },
   {
+    "name": "Wizlu - ניתוח פרופיל LinkedIn",
+    "category": "Social Networking",
+    "description": "ניתוח פרופיל LinkedIn בעברית - ציון, טיפים מקצועיים ודוגמאות מעשיות לשיפור",
+    "country": "",
+    "lastUpdate": "2026-02-02",
+    "storeUrl": "https://chromewebstore.google.com/detail/cnjjgdoiaggabiiigilloaomnlmnjhfn",
+    "website": "https://wizlu.co.il/",
+    "extensionId": "cnjjgdoiaggabiiigilloaomnlmnjhfn"
+  },
+  {
     "name": "WizzyBot : AI Replies For Twitter & LinkedIn",
     "category": "Tools",
     "description": "Let WizzyBot do the heavy lifting for your social media growth!",
@@ -59938,6 +60618,16 @@
     "storeUrl": "https://chromewebstore.google.com/detail/xpress-cv/pgljbepfgpmpkihennjhgmaacgeepoid",
     "website": "https://xpresscv.com",
     "extensionId": "pgljbepfgpmpkihennjhgmaacgeepoid"
+  },
+  {
+    "name": "xReplAI",
+    "category": "Communication",
+    "description": "AI-powered email draft generation for Gmail and LinkedIn. Multi-variant replies with style mimicking and tone selection.",
+    "country": "US",
+    "lastUpdate": "2026-02-07",
+    "storeUrl": "https://chromewebstore.google.com/detail/ngcplclifbfgoilefkhelafgpmcmkbni",
+    "website": "",
+    "extensionId": "ngcplclifbfgoilefkhelafgpmcmkbni"
   },
   {
     "name": "Xtension",

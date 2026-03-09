@@ -48,7 +48,7 @@ Consider what LinkedIn can determine about a single company:
 
 **Internal culture.** If LinkedIn detects political extensions across employees at a company, it can infer the political leanings of the workforce. If it detects religious extensions, it knows the religious composition. If it detects job search extensions on 30% of a company's employees, it knows the company has a retention problem.
 
-None of this is hypothetical. The technical architecture documented on the [How It Works](/how-it-works/) page fires up to 6,153 extension probes on every Chrome user who visits LinkedIn. LinkedIn has the user's profile data. It has their employer. It has the scan results. The aggregation is trivial.
+None of this is hypothetical. The technical architecture documented on the [How It Works](/how-it-works/) page fires up to 6,222 extension probes on every Chrome user who visits LinkedIn. LinkedIn has the user's profile data. It has their employer. It has the scan results. The aggregation is trivial.
 
 ---
 
@@ -58,7 +58,7 @@ Every software product has a customer list. That list is universally recognized 
 
 LinkedIn has built a system that extracts customer lists from 6,167 software companies simultaneously. Without asking. Without paying. Without the companies knowing.
 
-Here is how it works: Adobe's Acrobat extension has millions of users. LinkedIn scans for it. Every LinkedIn user who has the Adobe Acrobat extension installed is identified, by name, employer, and job title. LinkedIn now has a partial customer list for Adobe, segmented by company, industry, and role. Multiply this across all 6,153 extensions.
+Here is how it works: Adobe's Acrobat extension has millions of users. LinkedIn scans for it. Every LinkedIn user who has the Adobe Acrobat extension installed is identified, by name, employer, and job title. LinkedIn now has a partial customer list for Adobe, segmented by company, industry, and role. Multiply this across all 6,222 extensions.
 
 LinkedIn is not buying this data on the open market. It is not licensing it from data brokers. It is extracting it from users' browsers through a covert detection system, attaching it to verified professional identities, and transmitting it, encrypted, to its own servers. This is the kind of competitive intelligence that, if obtained by an employee walking out of a company with a USB drive, would result in criminal prosecution.
 
@@ -104,7 +104,7 @@ LinkedIn can operate this surveillance system because it is a monopolist.
 
 There is no alternative professional network at comparable scale. If you are a professional in most industries, you need a LinkedIn profile. Recruiters expect it. Clients check it. Colleagues connect on it. Refusing to use LinkedIn means accepting a real professional disadvantage.
 
-This gives LinkedIn the power to set terms that no user would accept if they had a choice. No user, if asked, would consent to having their browser scanned for 6,153 extensions every time they visit a website. But LinkedIn does not ask, because it does not have to. Where would you go instead?
+This gives LinkedIn the power to set terms that no user would accept if they had a choice. No user, if asked, would consent to having their browser scanned for 6,222 extensions every time they visit a website. But LinkedIn does not ask, because it does not have to. Where would you go instead?
 
 The Digital Markets Act was supposed to address exactly this kind of abuse. The EU designated LinkedIn as a gatekeeper platform in September 2023 and required it to open access to third-party tools under Article 6(10). LinkedIn's response was to massively expand its extension scanning. In 2024, the scan list contained roughly 461 extensions. By December 2025, it had grown to 5,459. By February 2026, 6,167. The 10x growth in the scan list directly tracks the period when LinkedIn was supposed to be opening up to competition.
 

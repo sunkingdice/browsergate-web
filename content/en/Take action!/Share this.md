@@ -56,7 +56,7 @@ Yes, post it on LinkedIn. That's the point.
 > 
 > If you disabled externally_connectable in your manifest.json, they try the next method. Then the next. It's a deliberate fallback escalation chain.
 > 
-> They've catalogued a specific internal file path for each of the 5,459 extensions they scan for. Someone at LinkedIn manually mapped your extension's resources.
+> They've catalogued a specific internal file path for each of the 6,222 extensions they scan for. Someone at LinkedIn manually mapped your extension's resources.
 > 
 > The full technical analysis with code snippets from LinkedIn's JavaScript bundle: browsergate.eu
 
@@ -100,7 +100,7 @@ Yes, post it on LinkedIn. That's the point.
 
 ### Post 1
 
-> LinkedIn runs a silent browser scan on every Chrome user who visits the site. 5,459 extensions. ~405 million users affected. No consent, no disclosure, no mention in their privacy policy.
+> LinkedIn runs a silent browser scan on every Chrome user who visits the site. 6,222 extensions. ~405 million users affected. No consent, no disclosure, no mention in their privacy policy.
 > 
 > The scan identifies your sales tools, VPN, ad blocker, job search extensions, and extensions tied to religion, politics, and disability.
 > 
@@ -124,7 +124,7 @@ Yes, post it on LinkedIn. That's the point.
 
 > If you've ever visited LinkedIn on Chrome, they scanned your browser for installed extensions. Without asking. Without telling you.
 > 
-> The list covers 5,459 extensions with a combined user base of about 405 million people. It includes job search tools, sales software, ad blockers, VPNs, and extensions related to religion, political views, and disability.
+> The list covers 6,222 extensions with a combined user base of about 405 million people. It includes job search tools, sales software, ad blockers, VPNs, and extensions related to religion, political views, and disability.
 > 
 > None of this is mentioned in LinkedIn's privacy policy.
 > 

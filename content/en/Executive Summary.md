@@ -43,7 +43,7 @@ The search reveals:
 
 LinkedIn has not disclosed this practice in its privacy policy. There is no mention of extension scanning in any public-facing document.
 
-[Search the full list of 6,153 extensions →](/extensions/)
+[Search the full list of 6,222 extensions →](/extensions/)
 
 [Read how the detection system works →](/how-it-works/)
 
