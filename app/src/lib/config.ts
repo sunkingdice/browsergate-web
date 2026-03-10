@@ -2,6 +2,8 @@ export const LISTMONK_URL = 'https://list.browsergate.eu';
 
 export const LIST_UUID = '8c475cb9-680e-43e7-b74c-77408feb0326';
 
+export const DETECTED_LIST_UUID = 'b6fce36a-3f41-4421-bda7-1c3112a384b1';
+
 export const USER_TYPES: Record<string, string> = {
 	journalist: 'Journalist',
 	researcher: 'Researcher',

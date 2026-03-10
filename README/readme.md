@@ -134,9 +134,59 @@ Reads the current count of extensions in `extensions.json` and updates all `.md`
 node utils/update-count.js
 ```
 
+### `scrape-profiles.js [--list-id <id>] [--push-only] [--test <n>]`
+
+Scrapes all Chrome Web Store extension profile pages, extracts developer contact info, ratings, user counts, and other metadata into a CSV. Optionally bulk-adds developer emails to a Listmonk list.
+
+```bash
+# Scrape only — writes exports/extensions-profiles.csv (~2.5 hours)
+node utils/scrape-profiles.js
+
+# Scrape + push developer emails to Listmonk
+export LISTMONK_USER=api_username
+export LISTMONK_PASS=access_token
+node utils/scrape-profiles.js --list-id b6fce36a-3f41-4421-bda7-1c3112a384b1
+
+# Push only (scrape already done, progress file exists)
+node utils/scrape-profiles.js --push-only --list-id b6fce36a-3f41-4421-bda7-1c3112a384b1
+
+# Test with first N extensions
+node utils/scrape-profiles.js --test 5
+```
+
+Saves progress every 50 entries to `exports/extensions-profiles.progress.json` — fully resumable if interrupted. Deduplicates emails before pushing to Listmonk (groups by email, uses the extension with most users as primary). Subscribers are created with `source: "detected"` and rich attributes (extensionId, extensionName, category, users, developerCompany, totalExtensions).
+
 ### `server-setup.sh`
 
 Installs required dependencies (Go, Node.js, npm, PostCSS) on the production server.
+
+## Listmonk (Mailing Lists)
+
+- **URL:** https://list.browsergate.eu
+- **Admin panel:** https://list.browsergate.eu/admin
+- **API docs:** https://listmonk.app/docs/apis/subscribers/
+
+### Lists
+
+| List | UUID | Purpose |
+|------|------|---------|
+| Signup list | `8c475cb9-680e-43e7-b74c-77408feb0326` | Public signups from the website form |
+| Detected developers | `b6fce36a-3f41-4421-bda7-1c3112a384b1` | Extension developers scraped from Chrome Web Store |
+
+### API Authentication
+
+The admin API (`/api/*`) uses **HTTP Basic Auth** with an API user. Create one in Admin → Users.
+
+- `LISTMONK_USER` — API username
+- `LISTMONK_PASS` — access token (auto-generated, shown once on creation)
+
+The public endpoint (`/api/public/subscription`) requires no auth and is used by the website signup form.
+
+### Integration Points
+
+- **Website signup form** — `app/src/routes/api/subscribe/+server.ts` proxies to the public API
+- **Scrape script** — `utils/scrape-profiles.js --list-id` pushes to the admin API
+- **Config** — list UUIDs and Listmonk URL in `app/src/lib/config.ts`
 
 ## TODO
 
