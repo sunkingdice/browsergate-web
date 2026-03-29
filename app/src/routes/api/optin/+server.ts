@@ -1,60 +1,106 @@
-import { redirect } from '@sveltejs/kit';
+import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 import { env } from '$env/dynamic/private';
-import { base } from '$app/paths';
 import { LISTMONK_URL, FAIRLINKED_LIST_ID } from '$lib/config';
-import { createHmac, timingSafeEqual } from 'node:crypto';
 
-function verifySignature(email: string, sig: string): boolean {
-	const secret = env.OPTIN_SECRET;
-	if (!secret) return false;
-	const expected = createHmac('sha256', secret).update(email.toLowerCase().trim()).digest('hex');
+export const POST: RequestHandler = async ({ request }) => {
+	let body: Record<string, unknown>;
 	try {
-		return timingSafeEqual(Buffer.from(sig, 'hex'), Buffer.from(expected, 'hex'));
+		body = await request.json();
 	} catch {
-		return false;
-	}
-}
-
-export const GET: RequestHandler = async ({ url }) => {
-	const email = url.searchParams.get('email');
-	const sig = url.searchParams.get('sig');
-
-	if (!email || !sig) {
-		return new Response('Missing parameters.', { status: 400 });
+		return json({ error: 'Invalid JSON' }, { status: 400 });
 	}
 
-	if (!verifySignature(email, sig)) {
-		return new Response('Invalid or expired link.', { status: 403 });
+	const { uuid, homepage, toolName, description, euUsers, euUserType } = body as {
+		uuid: string;
+		homepage: string;
+		toolName: string;
+		description: string;
+		euUsers: string;
+		euUserType: string;
+	};
+
+	if (!uuid || !/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(uuid)) {
+		return json({ error: 'Invalid subscriber ID.' }, { status: 400 });
+	}
+
+	if (!toolName || typeof toolName !== 'string' || toolName.trim().length === 0) {
+		return json({ error: 'Tool name is required.' }, { status: 400 });
+	}
+
+	if (!description || typeof description !== 'string' || description.trim().length === 0) {
+		return json({ error: 'Description is required.' }, { status: 400 });
+	}
+
+	if (!euUsers || !['yes', 'no'].includes(euUsers)) {
+		return json({ error: 'Please answer the EU users question.' }, { status: 400 });
+	}
+
+	if (euUsers === 'yes' && !euUserType) {
+		return json({ error: 'Please specify the type of EU users.' }, { status: 400 });
 	}
 
 	const user = env.LISTMONK_ADMIN_USER;
 	const pass = env.LISTMONK_ADMIN_PASS;
 	if (!user || !pass) {
-		return new Response('Server misconfigured.', { status: 503 });
+		return json({ error: 'Server misconfigured.' }, { status: 503 });
 	}
 
 	const authHeader = 'Basic ' + Buffer.from(`${user}:${pass}`).toString('base64');
 
-	// Look up subscriber by email
-	const searchRes = await fetch(
-		`${LISTMONK_URL}/api/subscribers?query=subscribers.email='${encodeURIComponent(email.toLowerCase().trim())}'&per_page=1`,
+	// Look up subscriber by UUID
+	const subRes = await fetch(
+		`${LISTMONK_URL}/api/subscribers?query=subscribers.uuid='${uuid}'&per_page=1`,
 		{ headers: { Authorization: authHeader } }
 	);
 
-	if (!searchRes.ok) {
-		return new Response('Failed to look up subscriber.', { status: 502 });
+	if (!subRes.ok) {
+		return json({ error: 'Failed to look up subscriber.' }, { status: 502 });
 	}
 
-	const searchData = await searchRes.json();
-	const results = searchData?.data?.results;
+	const subData = await subRes.json();
+	const results = subData?.data?.results;
 	if (!results || results.length === 0) {
-		return new Response('Subscriber not found.', { status: 404 });
+		return json({ error: 'Subscriber not found.' }, { status: 404 });
 	}
 
-	const subscriberId = results[0].id;
+	const subscriber = results[0];
 
-	// Add subscriber to Fairlinked list
+	// Merge new attributes with existing ones
+	const existingAttribs = subscriber.attribs || {};
+	const updatedAttribs = {
+		...existingAttribs,
+		homepage: (homepage || '').trim(),
+		tool_name: toolName.trim(),
+		tool_description: description.trim(),
+		eu_users: euUsers,
+		eu_user_type: euUsers === 'yes' ? euUserType : null
+	};
+
+	// Preserve existing list IDs so PUT doesn't strip them
+	const existingListIds = (subscriber.lists || []).map((l: { id: number }) => l.id);
+
+	const updateRes = await fetch(`${LISTMONK_URL}/api/subscribers/${subscriber.id}`, {
+		method: 'PUT',
+		headers: {
+			Authorization: authHeader,
+			'Content-Type': 'application/json'
+		},
+		body: JSON.stringify({
+			email: subscriber.email,
+			name: subscriber.name,
+			status: subscriber.status,
+			lists: existingListIds,
+			attribs: updatedAttribs
+		})
+	});
+
+	if (!updateRes.ok) {
+		console.error('Listmonk update error:', updateRes.status, await updateRes.text());
+		return json({ error: 'Failed to update subscriber.' }, { status: 502 });
+	}
+
+	// Add to Fairlinked list
 	const addRes = await fetch(`${LISTMONK_URL}/api/subscribers/lists`, {
 		method: 'PUT',
 		headers: {
@@ -62,7 +108,7 @@ export const GET: RequestHandler = async ({ url }) => {
 			'Content-Type': 'application/json'
 		},
 		body: JSON.stringify({
-			ids: [subscriberId],
+			ids: [subscriber.id],
 			action: 'add',
 			target_list_ids: [FAIRLINKED_LIST_ID],
 			status: 'confirmed'
@@ -71,8 +117,8 @@ export const GET: RequestHandler = async ({ url }) => {
 
 	if (!addRes.ok) {
 		console.error('Listmonk add-to-list error:', addRes.status, await addRes.text());
-		return new Response('Failed to update subscription.', { status: 502 });
+		return json({ error: 'Failed to add to list.' }, { status: 502 });
 	}
 
-	redirect(303, `${base}/optin/success`);
+	return json({ ok: true });
 };

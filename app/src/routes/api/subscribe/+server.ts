@@ -1,6 +1,6 @@
 import { json } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
-import { LISTMONK_URL, LIST_UUID, USER_TYPES } from '$lib/config';
+import { LISTMONK_URL, LIST_UUID, FAIRLINKED_LIST_UUID, USER_TYPES } from '$lib/config';
 
 export const POST: RequestHandler = async ({ request }) => {
 	let body: Record<string, unknown>;
@@ -30,10 +30,15 @@ export const POST: RequestHandler = async ({ request }) => {
 		return json({ error: 'Please select a user type' }, { status: 400 });
 	}
 
+	const list_uuids = [LIST_UUID];
+	if (usertype === 'toolmaker') {
+		list_uuids.push(FAIRLINKED_LIST_UUID);
+	}
+
 	const payload = {
 		email: email.trim().toLowerCase(),
 		name: name.trim(),
-		list_uuids: [LIST_UUID],
+		list_uuids,
 		attribs: {
 			language: language || 'en',
 			usertype,
