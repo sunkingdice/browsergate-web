@@ -9,10 +9,9 @@ export const FAIRLINKED_LIST_ID = 4;
 
 export const USER_TYPES: Record<string, string> = {
 	journalist: 'Journalist',
-	researcher: 'Researcher',
-	lawyer: 'Lawyer',
-	affected_user: 'Affected LinkedIn user',
-	developer: 'Developer / Technical',
+	legal: 'Legal / Law Enforcement',
+	commercial_user: 'Commercial LinkedIn user',
+	toolmaker: 'LinkedIn Toolmaker',
 	other: 'Other'
 };
 

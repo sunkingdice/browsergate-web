@@ -1,10 +1,9 @@
 <script>
   const USER_TYPES = {
     journalist: 'Journalist',
-    researcher: 'Researcher',
-    lawyer: 'Lawyer',
-    affected_user: 'Affected LinkedIn user',
-    developer: 'Developer / Technical',
+    legal: 'Legal / Law Enforcement',
+    commercial_user: 'Commercial LinkedIn user',
+    toolmaker: 'LinkedIn Toolmaker',
     other: 'Other',
   };
 
