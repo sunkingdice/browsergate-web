@@ -30,6 +30,10 @@
       const data = await res.json();
       name = data.name;
       email = data.email;
+      const a = data.attribs || {};
+      toolName = a.extensionName || a.tool_name || a.name || '';
+      description = a.shortDescription || a.tool_description || a.short_description || '';
+      homepage = a.homepage || '';
       status = 'idle';
     } catch {
       errorMessage = 'Something went wrong. Please try again later.';

@@ -35,8 +35,11 @@ export const GET: RequestHandler = async ({ url }) => {
 
 	const sub = results[0];
 
+	const attribs = sub.attribs || {};
+
 	return json({
 		name: sub.name || '',
-		email: sub.email || ''
+		email: sub.email || '',
+		attribs
 	});
 };
