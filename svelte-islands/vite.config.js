@@ -11,6 +11,7 @@ export default defineConfig({
         'extensions-table': resolve(__dirname, 'src/extensions-table-entry.js'),
         'signup-form': resolve(__dirname, 'src/signup-form-entry.js'),
         'contact-form': resolve(__dirname, 'src/contact-form-entry.js'),
+        'optin-form': resolve(__dirname, 'src/optin-form-entry.js'),
       },
       output: {
         dir: '../static/js/islands',

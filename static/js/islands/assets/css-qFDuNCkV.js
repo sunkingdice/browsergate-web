@@ -1,0 +1,1 @@
+import{a1 as n,aa as d}from"./disclose-version-DP5CG7B6.js";function s(r,t){n(()=>{var e=r.getRootNode(),o=e.host?e:e.head??e.ownerDocument.head;if(!o.querySelector("#"+t.hash)){const a=d("style");a.id=t.hash,a.textContent=t.code,o.appendChild(a)}})}export{s as a};
