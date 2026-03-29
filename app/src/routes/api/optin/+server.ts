@@ -1,6 +1,7 @@
 import { redirect } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 import { env } from '$env/dynamic/private';
+import { base } from '$app/paths';
 import { LISTMONK_URL, FAIRLINKED_LIST_ID } from '$lib/config';
 import { createHmac, timingSafeEqual } from 'node:crypto';
 
@@ -73,5 +74,5 @@ export const GET: RequestHandler = async ({ url }) => {
 		return new Response('Failed to update subscription.', { status: 502 });
 	}
 
-	redirect(303, '/optin/success');
+	redirect(303, `${base}/optin/success`);
 };
