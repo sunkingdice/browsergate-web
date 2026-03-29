@@ -84,11 +84,13 @@
 </svelte:head>
 
 <div class="mx-auto max-w-xl px-4 py-12">
-	<div class="mb-6">
-		<h1 class="text-2xl font-bold text-gray-900">Join Fairlinked</h1>
-		<p class="mt-2 text-sm text-gray-600">
-			Help us fight for fair API access. Tell us about your tool and join the
-			<strong>Fairlinked — LinkedIn Tool Maker Updates</strong> list.
+	<div class="mb-8">
+		<h1 class="text-2xl font-bold text-gray-900">Fairlinked — LinkedIn Tool Maker Updates</h1>
+		<p class="mt-3 text-sm leading-relaxed text-gray-600">
+			EU regulation gives every business the right to access LinkedIn data.
+			Fairlinked is enforcing that right and building a legal pathway for tools
+			like yours to operate without fear of takedown. Subscribe for legal strategy
+			updates, regulatory filings, and Working Group opportunities.
 		</p>
 	</div>
 
