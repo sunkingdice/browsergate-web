@@ -6,7 +6,7 @@ After=network.target
 Type=simple
 User=deploy
 WorkingDirectory=/home/deploy/browsergate/site/app
-ExecStart=/usr/bin/node build/index.js
+ExecStart=/usr/bin/node --env-file=../.env build/index.js
 Restart=on-failure
 RestartSec=5
 Environment=NODE_ENV=production
