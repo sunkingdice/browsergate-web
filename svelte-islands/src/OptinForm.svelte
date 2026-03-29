@@ -11,11 +11,11 @@
   let errorMessage = $state('');
 
   const uuid = new URLSearchParams(window.location.search).get('uuid') || '';
+  const hasUuid = !!uuid;
 
   async function loadSubscriber() {
     if (!uuid) {
-      errorMessage = 'No subscriber ID provided. Please use the link from your email.';
-      status = 'error';
+      status = 'idle';
       return;
     }
 
@@ -42,6 +42,18 @@
   async function handleSubmit(e) {
     e.preventDefault();
 
+    if (!hasUuid) {
+      if (!name.trim()) {
+        errorMessage = 'Please enter your name.';
+        status = 'form-error';
+        return;
+      }
+      if (!email.trim() || !email.includes('@')) {
+        errorMessage = 'Please enter a valid email address.';
+        status = 'form-error';
+        return;
+      }
+    }
     if (!toolName.trim()) {
       errorMessage = 'Please enter your tool or extension name.';
       status = 'form-error';
@@ -71,7 +83,9 @@
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          uuid,
+          uuid: uuid || undefined,
+          name: name.trim(),
+          email: email.trim(),
           homepage: homepage.trim(),
           toolName: toolName.trim(),
           description: description.trim(),
@@ -118,12 +132,20 @@
   <form onsubmit={handleSubmit} class="of-form">
     <div class="of-row">
       <div class="of-field">
-        <label for="of-name">Name</label>
-        <input id="of-name" type="text" value={name} disabled />
+        <label for="of-name">Name {#if !hasUuid}<span class="of-required">*</span>{/if}</label>
+        {#if hasUuid}
+          <input id="of-name" type="text" value={name} disabled />
+        {:else}
+          <input id="of-name" type="text" bind:value={name} required placeholder="Jane Doe" />
+        {/if}
       </div>
       <div class="of-field">
-        <label for="of-email">Email</label>
-        <input id="of-email" type="email" value={email} disabled />
+        <label for="of-email">Email {#if !hasUuid}<span class="of-required">*</span>{/if}</label>
+        {#if hasUuid}
+          <input id="of-email" type="email" value={email} disabled />
+        {:else}
+          <input id="of-email" type="email" bind:value={email} required placeholder="you@example.com" />
+        {/if}
       </div>
     </div>
 
