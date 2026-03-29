@@ -170,8 +170,8 @@ Installs required dependencies (Go, Node.js, npm, PostCSS) on the production ser
 
 | List | UUID | Purpose |
 |------|------|---------|
-| Signup list | `8c475cb9-680e-43e7-b74c-77408feb0326` | Public signups from the website form |
-| Detected developers | `b6fce36a-3f41-4421-bda7-1c3112a384b1` | Extension developers scraped from Chrome Web Store |
+| All Browsergate | `8c475cb9-680e-43e7-b74c-77408feb0326` | Public signups from the website form (double opt-in) |
+| Developers-All | `b6fce36a-3f41-4421-bda7-1c3112a384b1` | Extension developers scraped from Chrome Web Store (private, single opt-in) |
 
 ### API Authentication
 
