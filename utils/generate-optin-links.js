@@ -21,7 +21,7 @@ const OPTIN_SECRET = process.env.OPTIN_SECRET;
 const LISTMONK_USER = process.env.LISTMONK_ADMIN_USER;
 const LISTMONK_PASS = process.env.LISTMONK_ADMIN_PASS;
 const LISTMONK_URL = 'https://list.browsergate.eu';
-const BASE_URL = 'https://browsergate.eu';
+const BASE_URL = 'https://browsergate.eu/app';
 const FAIRLINKED_LIST_ID = 4;
 
 if (!OPTIN_SECRET) {

@@ -1,0 +1,16 @@
+[Unit]
+Description=BrowserGate SvelteKit App
+After=network.target
+
+[Service]
+Type=simple
+User=deploy
+WorkingDirectory=/home/deploy/browsergate/site/app
+ExecStart=/usr/bin/node build/index.js
+Restart=on-failure
+RestartSec=5
+Environment=NODE_ENV=production
+Environment=PORT=3000
+
+[Install]
+WantedBy=multi-user.target
