@@ -40,8 +40,8 @@ enableGitInfo = true
     noClasses = false
 
 [outputs]
-  home = ['HTML', 'print', 'RSS']
-  section = ['HTML', 'print', 'RSS']
+  home = ['HTML', 'print']
+  section = ['HTML', 'print']
 
 [params]
 
