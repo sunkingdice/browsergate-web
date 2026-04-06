@@ -10,11 +10,8 @@ ignoreFiles = ['\.obsidian']
 enableGitInfo = true
 
 [taxonomies]
-  tag = 'tags'
-  category = 'categories'
 
 [permalinks]
-  blog = '/:section/:year/:month/:day/:slug'
 
 [imaging]
   resampleFilter = 'CatmullRom'

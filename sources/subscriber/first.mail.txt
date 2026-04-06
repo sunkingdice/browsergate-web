@@ -1,0 +1,34 @@
+# Sample Email send to all Tool Developers being surveillance by Linkedin
+
+Subject: LinkedIn Enformcent
+
+Dear Dado,
+
+LinkedIn is illegally searching the computers of millions of their users to detect Chrome browser extensions.
+We have detected that your extension is on the list of software products LinkedIn is searching for.
+All your users are affected by this.
+
+DETECTED PRODUCT: #1 Productivity extension for active people 
+CATEGORY: Workflow & Planning 
+ID: cnmmnokeenlffmhalcgpmoiagfjnohfa 
+
+LinkedIn runs this scan silently on every page load, without user consent, and without any mention in their privacy policy.
+They also secretly share personal information of your users with HUMAN Security (formerly PerimeterX) and with an unknown number of other third parties.
+Your extension is one of 6,222 products we have identified so far. The number keeps growing.
+
+My name is Steven Morell. I'm a developer myself and the founder of Fairlinked (Alliance for Digital Fairness e.V.), 
+a German nonprofit representing developers and businesses affected by LinkedIn's practices.
+
+We discovered this scanning system, documented it, and published the full technical and legal analysis here
+
+     browsergate(dot)eu
+
+We are currently suing LinkedIn in Europe and preparing class action suits and other legal steps.
+
+I am maintaining a mailing list of affected developers, to keep them updated on this issue.
+Please let me know if you want to be removed from the list of recipients or if you would like me to use a different email address. 
+
+If you have questions about any of this, reply to this email.
+I'm happy to talk.
+
+Steven Morell
