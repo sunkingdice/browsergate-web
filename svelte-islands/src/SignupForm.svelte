@@ -117,7 +117,7 @@
 
       <label class="sf-checkbox">
         <input type="checkbox" bind:checked={privacy} required />
-        <span>I agree to the <a href="/privacy/">privacy policy</a></span>
+        <span>I agree to the <a href="https://fairlinked.eu/privacy/" target="_blank" rel="noopener noreferrer">privacy policy</a></span>
       </label>
     </div>
 
