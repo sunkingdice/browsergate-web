@@ -31,6 +31,20 @@ nav.foldable-nav .without-child {
   }
 }
 
+// Sidebar: smaller type for pages listed under Updates only (not the "Updates" row itself)
+#m-updates-li > ul .td-sidebar-link {
+  font-size: 0.75em;
+}
+
+// Those pages set sidebar_margin_top → .sidebar-mt (20px). Under Updates it stacks as huge gaps; tighten only here.
+#m-updates-li > ul > li.sidebar-mt {
+  margin-top: 0.35rem !important;
+}
+
+#m-updates-li > ul > li.sidebar-mt:first-child {
+  margin-top: 0.5rem !important;
+}
+
 .td-content > .td-max-width-on-larger-screens,
 .td-content > p,
 .td-content > h1,
